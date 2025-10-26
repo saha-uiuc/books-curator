@@ -1,0 +1,45 @@
+{
+  "merge_summary": {
+    "created_date": "2025-10-24T20:51:56.537895",
+    "description": "Statistical report of dataset merge operation"
+  },
+  "source_datasets": {
+    "awards": {
+      "total_entries": 581,
+      "matched": 126,
+      "unmatched": 0,
+      "match_rate": "21.7%"
+    },
+    "google_books": {
+      "total_entries": 318,
+      "matched": 16,
+      "unmatched": 302,
+      "match_rate": "5.0%"
+    },
+    "openlibrary": {
+      "total_entries": 974,
+      "matched": 67,
+      "unmatched": 907,
+      "match_rate": "6.9%"
+    },
+    "nyt_bestsellers": {
+      "total_entries": 271,
+      "matched": 61,
+      "unmatched": 210,
+      "match_rate": "22.5%"
+    }
+  },
+  "merged_dataset": {
+    "total_unique_books": 1538,
+    "books_with_awards": 120,
+    "books_with_reception_data": 300,
+    "books_on_bestseller_list": 255,
+    "books_with_multiple_sources": 77
+  },
+  "data_quality": {
+    "books_with_isbn": 1403,
+    "books_with_ratings": 300,
+    "award_winning_books": 21,
+    "bestsellers": 255
+  }
+}

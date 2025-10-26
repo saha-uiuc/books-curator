@@ -1,0 +1,559 @@
+[
+  {
+    "Year": 2000,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "Interpreter of Maladies",
+    "Author": "Jhumpa Lahiri",
+    "Publisher": "Houghton Mifflin"
+  },
+  {
+    "Year": 2000,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Close Range: Wyoming Stories",
+    "Author": "Annie Proulx"
+  },
+  {
+    "Year": 2000,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Waiting",
+    "Author": "Ha Jin"
+  },
+  {
+    "Year": 2001,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Amazing Adventures of Kavalier & Clay",
+    "Author": "Michael Chabon",
+    "Publisher": "Random House"
+  },
+  {
+    "Year": 2001,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Blonde",
+    "Author": "Joyce Carol Oates"
+  },
+  {
+    "Year": 2001,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Quick and the Dead",
+    "Author": "Joy Williams"
+  },
+  {
+    "Year": 2002,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "Empire Falls",
+    "Author": "Richard Russo",
+    "Publisher": "Alfred A. Knopf"
+  },
+  {
+    "Year": 2002,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "John Henry Days",
+    "Author": "Colson Whitehead"
+  },
+  {
+    "Year": 2002,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Corrections",
+    "Author": "Jonathan Franzen"
+  },
+  {
+    "Year": 2003,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "Middlesex",
+    "Author": "Jeffrey Eugenides",
+    "Publisher": "Farrar, Straus and Giroux"
+  },
+  {
+    "Year": 2003,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Servants of the Map: Stories",
+    "Author": "Andrea Barrett"
+  },
+  {
+    "Year": 2003,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "You Are Not a Stranger Here",
+    "Author": "Adam Haslett"
+  },
+  {
+    "Year": 2004,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Known World",
+    "Author": "Edward P. Jones",
+    "Publisher": "Amistad Press"
+  },
+  {
+    "Year": 2004,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "American Woman",
+    "Author": "Susan Choi"
+  },
+  {
+    "Year": 2004,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Evidence of Things Unseen",
+    "Author": "Marianne Wiggins"
+  },
+  {
+    "Year": 2005,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "Gilead",
+    "Author": "Marilynne Robinson",
+    "Publisher": "Farrar, Straus and Giroux"
+  },
+  {
+    "Year": 2005,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "An Unfinished Season",
+    "Author": "Ward Just"
+  },
+  {
+    "Year": 2005,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "War Trash",
+    "Author": "Ha Jin"
+  },
+  {
+    "Year": 2006,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "March",
+    "Author": "Geraldine Brooks",
+    "Publisher": "Viking Press"
+  },
+  {
+    "Year": 2006,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Bright Forever",
+    "Author": "Lee Martin"
+  },
+  {
+    "Year": 2006,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The March",
+    "Author": "E. L. Doctorow"
+  },
+  {
+    "Year": 2007,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Road",
+    "Author": "Cormac McCarthy",
+    "Publisher": "Alfred A. Knopf"
+  },
+  {
+    "Year": 2007,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "After This",
+    "Author": "Alice McDermott"
+  },
+  {
+    "Year": 2007,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Echo Maker",
+    "Author": "Richard Powers"
+  },
+  {
+    "Year": 2008,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Brief Wondrous Life of Oscar Wao",
+    "Author": "Junot Díaz",
+    "Publisher": "Riverhead Books"
+  },
+  {
+    "Year": 2008,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Shakespeare's Kitchen",
+    "Author": "Lore Segal"
+  },
+  {
+    "Year": 2008,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Tree of Smoke",
+    "Author": "Denis Johnson"
+  },
+  {
+    "Year": 2009,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "Olive Kitteridge",
+    "Author": "Elizabeth Strout",
+    "Publisher": "Random House"
+  },
+  {
+    "Year": 2009,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "All Souls",
+    "Author": "Christine Schutt"
+  },
+  {
+    "Year": 2009,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Plague of Doves",
+    "Author": "Louise Erdrich"
+  },
+  {
+    "Year": 2010,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "Tinkers",
+    "Author": "Paul Harding",
+    "Publisher": "Bellevue Literary Press"
+  },
+  {
+    "Year": 2010,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "In Other Rooms, Other Wonders",
+    "Author": "Daniyal Mueenuddin"
+  },
+  {
+    "Year": 2010,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Love in Infant Monkeys",
+    "Author": "Lydia Millet"
+  },
+  {
+    "Year": 2011,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "A Visit from the Goon Squad",
+    "Author": "Jennifer Egan",
+    "Publisher": "Alfred A. Knopf"
+  },
+  {
+    "Year": 2011,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Privileges",
+    "Author": "Jonathan Dee"
+  },
+  {
+    "Year": 2011,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Surrendered",
+    "Author": "Chang-rae Lee"
+  },
+  {
+    "Year": 2013,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Orphan Master's Son",
+    "Author": "Adam Johnson",
+    "Publisher": "Random House"
+  },
+  {
+    "Year": 2013,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Snow Child",
+    "Author": "Eowyn Ivey"
+  },
+  {
+    "Year": 2013,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "What We Talk About When We Talk About Anne Frank",
+    "Author": "Nathan Englander"
+  },
+  {
+    "Year": 2014,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Goldfinch",
+    "Author": "Donna Tartt",
+    "Publisher": "Little, Brown and Company"
+  },
+  {
+    "Year": 2014,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Son",
+    "Author": "Philipp Meyer"
+  },
+  {
+    "Year": 2014,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Woman Who Lost Her Soul",
+    "Author": "Bob Shacochis"
+  },
+  {
+    "Year": 2015,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "All the Light We Cannot See",
+    "Author": "Anthony Doerr",
+    "Publisher": "Charles Scribner's Sons"
+  },
+  {
+    "Year": 2015,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Let Me Be Frank With You",
+    "Author": "Richard Ford"
+  },
+  {
+    "Year": 2015,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Lovely, Dark, Deep",
+    "Author": "Joyce Carol Oates"
+  },
+  {
+    "Year": 2015,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Moor's Account",
+    "Author": "Laila Lalami"
+  },
+  {
+    "Year": 2016,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Sympathizer",
+    "Author": "Viet Thanh Nguyen",
+    "Publisher": "Grove Press"
+  },
+  {
+    "Year": 2016,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Get in Trouble: Stories",
+    "Author": "Kelly Link"
+  },
+  {
+    "Year": 2016,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Maud's Line",
+    "Author": "Margaret Verble"
+  },
+  {
+    "Year": 2017,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Underground Railroad",
+    "Author": "Colson Whitehead",
+    "Publisher": "Doubleday"
+  },
+  {
+    "Year": 2017,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Imagine Me Gone",
+    "Author": "Adam Haslett"
+  },
+  {
+    "Year": 2017,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Sport of Kings",
+    "Author": "C. E. Morgan"
+  },
+  {
+    "Year": 2018,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "Less",
+    "Author": "Andrew Sean Greer",
+    "Publisher": "Little, Brown and Company"
+  },
+  {
+    "Year": 2018,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "In the Distance",
+    "Author": "Hernan Diaz"
+  },
+  {
+    "Year": 2018,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Idiot",
+    "Author": "Elif Batuman"
+  },
+  {
+    "Year": 2019,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Overstory",
+    "Author": "Richard Powers",
+    "Publisher": "W. W. Norton & Company"
+  },
+  {
+    "Year": 2019,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Great Believers",
+    "Author": "Rebecca Makkai"
+  },
+  {
+    "Year": 2019,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "There There",
+    "Author": "Tommy Orange"
+  },
+  {
+    "Year": 2020,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Nickel Boys",
+    "Author": "Colson Whitehead",
+    "Publisher": "Doubleday"
+  },
+  {
+    "Year": 2020,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Dutch House",
+    "Author": "Ann Patchett"
+  },
+  {
+    "Year": 2020,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Topeka School",
+    "Author": "Ben Lerner"
+  },
+  {
+    "Year": 2021,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Night Watchman",
+    "Author": "Louise Erdrich",
+    "Publisher": "HarperCollins"
+  },
+  {
+    "Year": 2021,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "A Registry of My Passage Upon the Earth",
+    "Author": "Daniel Mason"
+  },
+  {
+    "Year": 2021,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Telephone",
+    "Author": "Percival Everett"
+  },
+  {
+    "Year": 2022,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "The Netanyahus: An Account of a Minor and Ultimately Even Negligible Episode in the History of a Very Famous Family",
+    "Author": "Joshua Cohen",
+    "Publisher": "New York Review Books"
+  },
+  {
+    "Year": 2022,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Monkey Boy",
+    "Author": "Francisco Goldman"
+  },
+  {
+    "Year": 2022,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Palmares",
+    "Author": "Gayl Jones"
+  },
+  {
+    "Year": 2023,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "Trust",
+    "Author": "Hernan Diaz",
+    "Publisher": "Riverhead Books"
+  },
+  {
+    "Year": 2023,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Immortal King Rao",
+    "Author": "Vauhini Vara"
+  },
+  {
+    "Year": 2024,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "Night Watch",
+    "Author": "Jayne Anne Phillips",
+    "Publisher": "Knopf"
+  },
+  {
+    "Year": 2024,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Wednesday's Child",
+    "Author": "Yiyun Li"
+  },
+  {
+    "Year": 2024,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Same Bed Different Dreams",
+    "Author": "Ed Park"
+  },
+  {
+    "Year": 2025,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Winner",
+    "Title": "James",
+    "Author": "Percival Everett",
+    "Publisher": "Doubleday"
+  },
+  {
+    "Year": 2025,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Headshot",
+    "Author": "Rita Bullwinkel"
+  },
+  {
+    "Year": 2025,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "The Unicorn Woman",
+    "Author": "Gayl Jones"
+  },
+  {
+    "Year": 2025,
+    "Award": "Pulitzer Prize for Fiction",
+    "Status": "Finalist",
+    "Title": "Mice 1961",
+    "Author": "Stacey Levine"
+  }
+]

@@ -1,0 +1,5427 @@
+{
+  "metadata": {
+    "source": "Google Books API",
+    "fetch_date": "2025-10-24T01:38:37.730839",
+    "total_books": 318,
+    "year_range": "2020-2025"
+  },
+  "books": [
+    {
+      "title": "The White Mountain",
+      "authors": [
+        "Robert Goldsborough"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2025-09-02",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 169,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798337201894",
+      "google_books_id": "XjxoEQAAQBAJ"
+    },
+    {
+      "title": "The Battle of Space Fort Jefferson and Other Stories",
+      "authors": [
+        "Timothy Zahn"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2024-09-24",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 289,
+      "language": "en",
+      "isbn_10": "1504096916",
+      "isbn_13": "9781504096911",
+      "google_books_id": "4BAVEQAAQBAJ"
+    },
+    {
+      "title": "The Art of War and Other Stories",
+      "authors": [
+        "Timothy Zahn"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2025-01-07",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 323,
+      "language": "en",
+      "isbn_10": "1504096924",
+      "isbn_13": "9781504096928",
+      "google_books_id": "rYMvEQAAQBAJ"
+    },
+    {
+      "title": "Manta's Gift",
+      "authors": [
+        "Timothy Zahn"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2020-11-10",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 409,
+      "language": "en",
+      "isbn_10": "150406450X",
+      "isbn_13": "9781504064507",
+      "google_books_id": "gXP6DwAAQBAJ"
+    },
+    {
+      "title": "Vegetarianism and Science Fiction",
+      "authors": [
+        "Joshua Bulleid"
+      ],
+      "publisher": "Springer Nature",
+      "published_date": "2023-10-06",
+      "year": 2023,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "page_count": 344,
+      "language": "en",
+      "isbn_10": "3031383478",
+      "isbn_13": "9783031383472",
+      "google_books_id": "XMDbEAAAQBAJ"
+    },
+    {
+      "title": "The Green and the Gray",
+      "authors": [
+        "Timothy Zahn"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2020-11-10",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 560,
+      "language": "en",
+      "isbn_10": "1504064496",
+      "isbn_13": "9781504064491",
+      "google_books_id": "f3P6DwAAQBAJ"
+    },
+    {
+      "title": "The Cat Next Door",
+      "authors": [
+        "Marian Babson"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2020-01-07",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 188,
+      "language": "en",
+      "isbn_10": "1504059824",
+      "isbn_13": "9781504059824",
+      "google_books_id": "s1y6DwAAQBAJ"
+    },
+    {
+      "title": "Only the Cat Knows",
+      "authors": [
+        "Marian Babson"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2020-01-07",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 220,
+      "language": "en",
+      "isbn_10": "1504059832",
+      "isbn_13": "9781504059831",
+      "google_books_id": "_Vy6DwAAQBAJ"
+    },
+    {
+      "title": "Trouble at the Brownstone",
+      "authors": [
+        "Robert Goldsborough"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2021-06-15",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 235,
+      "language": "en",
+      "isbn_10": "1504066618",
+      "isbn_13": "9781504066617",
+      "google_books_id": "DykWEAAAQBAJ"
+    },
+    {
+      "title": "The Best American Science Fiction and Fantasy 2025",
+      "authors": [
+        "Nnedi Okorafor",
+        "John Joseph Adams"
+      ],
+      "publisher": "HarperCollins",
+      "published_date": "2025-10-21",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 326,
+      "language": "en",
+      "isbn_10": "0063441519",
+      "isbn_13": "9780063441514",
+      "google_books_id": "wtNAEQAAQBAJ"
+    },
+    {
+      "title": "Archie Goes Home",
+      "authors": [
+        "Robert Goldsborough"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2020-05-19",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 228,
+      "language": "en",
+      "isbn_10": "1504059875",
+      "isbn_13": "9781504059879",
+      "google_books_id": "plupDwAAQBAJ"
+    },
+    {
+      "title": "Empty Wigs",
+      "authors": [
+        "Jonathan Meades"
+      ],
+      "publisher": "Unbound Publishing",
+      "published_date": "2025-02-13",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1198,
+      "language": "en",
+      "isbn_10": "1800183259",
+      "isbn_13": "9781800183254",
+      "google_books_id": "aEtEEQAAQBAJ"
+    },
+    {
+      "title": "No Rest for a Heartbreaker",
+      "authors": [
+        "Claire Chwalek"
+      ],
+      "publisher": "Dorrance Publishing",
+      "published_date": "2022-11-30",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1030,
+      "language": "en",
+      "isbn_10": "1639373950",
+      "isbn_13": "9781639373956",
+      "google_books_id": "TSSkEAAAQBAJ"
+    },
+    {
+      "title": "Heart of Community",
+      "authors": [
+        "Sue Batton Leonard"
+      ],
+      "publisher": "Cornerstone Fulfillment Service",
+      "published_date": "2021-09-03",
+      "year": 2021,
+      "categories": [],
+      "page_count": 238,
+      "language": "en",
+      "isbn_10": "1950647862",
+      "isbn_13": "9781950647866",
+      "google_books_id": "7YefzgEACAAJ"
+    },
+    {
+      "title": "Lean Fall Stand",
+      "authors": [
+        "Jon McGregor"
+      ],
+      "publisher": "Fourth Estate",
+      "published_date": "2021-04-29",
+      "year": 2021,
+      "categories": [],
+      "page_count": 336,
+      "language": "en",
+      "isbn_10": "0008204918",
+      "isbn_13": "9780008204914",
+      "google_books_id": "zt24zQEACAAJ"
+    },
+    {
+      "title": "Twelve Years a Slave:a Classics Illustrated Edition",
+      "authors": [
+        "Solomon Northup"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-08-13",
+      "year": 2021,
+      "categories": [],
+      "page_count": 205,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798455934926",
+      "google_books_id": "ST-izgEACAAJ"
+    },
+    {
+      "title": "The Waiter",
+      "authors": [
+        "Ajay Chowdhury"
+      ],
+      "publisher": "Harvill Secker",
+      "published_date": "2021-05",
+      "year": 2021,
+      "categories": [
+        "Murder"
+      ],
+      "page_count": 288,
+      "language": "en",
+      "isbn_10": "1787301834",
+      "isbn_13": "9781787301832",
+      "google_books_id": "PqgSyAEACAAJ"
+    },
+    {
+      "title": "Joan Is Okay",
+      "authors": [
+        "Weike Wang"
+      ],
+      "publisher": "Text Publishing",
+      "published_date": "2022-02-01",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 224,
+      "language": "en",
+      "isbn_10": "1922458481",
+      "isbn_13": "9781922458483",
+      "google_books_id": "8NRUEAAAQBAJ"
+    },
+    {
+      "title": "Deeds of Autumn",
+      "authors": [
+        "Anders de la Motte"
+      ],
+      "publisher": "Bonnier Zaffre Ltd.",
+      "published_date": "2022-10-13",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 430,
+      "language": "en",
+      "isbn_10": "1838776176",
+      "isbn_13": "9781838776176",
+      "google_books_id": "NghZEAAAQBAJ"
+    },
+    {
+      "title": "Forbidden to the Highland Laird",
+      "authors": [
+        "Sarah Mallory"
+      ],
+      "publisher": "Harlequin",
+      "published_date": "2020-12-01",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 249,
+      "language": "en",
+      "isbn_10": "1488066086",
+      "isbn_13": "9781488066085",
+      "google_books_id": "UYPpDwAAQBAJ"
+    },
+    {
+      "title": "Peril at the Exposition",
+      "authors": [
+        "Nev March"
+      ],
+      "publisher": "Minotaur Books",
+      "published_date": "2022-07-12",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1250855039",
+      "isbn_13": "9781250855039",
+      "google_books_id": "ZOo_EAAAQBAJ"
+    },
+    {
+      "title": "The Past Is Red",
+      "authors": [
+        "Catherynne M. Valente"
+      ],
+      "publisher": "Tordotcom",
+      "published_date": "2021-07-20",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 160,
+      "language": "en",
+      "isbn_10": "1250301130",
+      "isbn_13": "9781250301130",
+      "google_books_id": "gzrAzQEACAAJ"
+    },
+    {
+      "title": "The Red Monkey",
+      "authors": [
+        "Ed Thilenius"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-03-09",
+      "year": 2021,
+      "categories": [],
+      "page_count": 204,
+      "language": "en",
+      "isbn_10": "0578875195",
+      "isbn_13": "9780578875194",
+      "google_books_id": "n7xVzgEACAAJ"
+    },
+    {
+      "title": "Through Their Lenses",
+      "authors": [
+        "Raphael Courouble",
+        "SongHyun Eunice LEE",
+        "Nico Roman Cordonier Gehring",
+        "Brady Hammond",
+        "Sachin Chandran",
+        "Nile Randolph",
+        "Kira Chen",
+        "Tara Callinan",
+        "Mara Bech",
+        "Arjun Bajwa",
+        "Elijah Bodden",
+        "Ashritha Vuddharaju",
+        "Alita Sebastian",
+        "Gavin Chan",
+        "Mridula Srinivas",
+        "Aydan Wong",
+        "Bella Marciano",
+        "Pranavi Vedula",
+        "Neer Jain",
+        "Yung Wing Sum",
+        "Jasper Loi",
+        "Brenna Nichols",
+        "Cress Wallwalker",
+        "Alex Chu",
+        "Rylee Yeo",
+        "Quimby Owens",
+        "August Watson",
+        "Sarah Serena Thompson",
+        "Valerie Menke"
+      ],
+      "publisher": "Lune Spark Books",
+      "published_date": "2021-01-27",
+      "year": 2021,
+      "categories": [],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1947960423",
+      "isbn_13": "9781947960428",
+      "google_books_id": "4b85zgEACAAJ"
+    },
+    {
+      "title": "Just You & I: An Award-winning film Screenplay.",
+      "authors": [
+        "William Smith",
+        "Marilyn Buttigieg"
+      ],
+      "publisher": "William Smith",
+      "published_date": "2022-12-06",
+      "year": 2022,
+      "categories": [
+        "Performing Arts"
+      ],
+      "page_count": 157,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "xfKfEAAAQBAJ"
+    },
+    {
+      "title": "Like Clockwork",
+      "authors": [],
+      "publisher": "Stringybark Publishing",
+      "published_date": "2023",
+      "year": 2023,
+      "categories": [],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "064547651X",
+      "isbn_13": "9780645476514",
+      "google_books_id": "UsUO0AEACAAJ"
+    },
+    {
+      "title": "Hanaa The Explorer",
+      "authors": [
+        "Hana Mahdy",
+        "Gihan Faisal"
+      ],
+      "publisher": "Independently Published",
+      "published_date": "2020-06-26",
+      "year": 2020,
+      "categories": [],
+      "page_count": 34,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798657161021",
+      "google_books_id": "-oyXzQEACAAJ"
+    },
+    {
+      "title": "In Body I Trust",
+      "authors": [
+        "Lauren Dow"
+      ],
+      "publisher": "New Luna Press",
+      "published_date": "2021-05-25",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 182,
+      "language": "en",
+      "isbn_10": "1736572512",
+      "isbn_13": "9781736572511",
+      "google_books_id": "KeAwzgEACAAJ"
+    },
+    {
+      "title": "The Cowboy Way",
+      "authors": [
+        "Elmer Kelton"
+      ],
+      "publisher": "Forge Books",
+      "published_date": "2021-05-11",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 240,
+      "language": "en",
+      "isbn_10": "1250768977",
+      "isbn_13": "9781250768971",
+      "google_books_id": "Li-_zQEACAAJ"
+    },
+    {
+      "title": "We Are Satellites",
+      "authors": [
+        "Sarah Pinsker"
+      ],
+      "publisher": "National Geographic Books",
+      "published_date": "2021-05-11",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1984802607",
+      "isbn_13": "9781984802606",
+      "google_books_id": "njWREAAAQBAJ"
+    },
+    {
+      "title": "Carnality",
+      "authors": [
+        "Lina Wolff"
+      ],
+      "publisher": "Other Press, LLC",
+      "published_date": "2022-07-12",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 369,
+      "language": "en",
+      "isbn_10": "163542075X",
+      "isbn_13": "9781635420753",
+      "google_books_id": "NrpHEAAAQBAJ"
+    },
+    {
+      "title": "Bad Love Series",
+      "authors": [
+        "Kevin Schewe"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-11-22",
+      "year": 2021,
+      "categories": [],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1954978340",
+      "isbn_13": "9781954978348",
+      "google_books_id": "Qa-_zgEACAAJ"
+    },
+    {
+      "title": "You Made Me Love You",
+      "authors": [
+        "John Edgar Wideman"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2021-04-06",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 496,
+      "language": "en",
+      "isbn_10": "1982148918",
+      "isbn_13": "9781982148911",
+      "google_books_id": "5EoiEAAAQBAJ"
+    },
+    {
+      "title": "Against the Loveless World",
+      "authors": [
+        "Susan Abulhawa"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2021-11-02",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 400,
+      "language": "en",
+      "isbn_10": "1982137045",
+      "isbn_13": "9781982137045",
+      "google_books_id": "r4ZGEAAAQBAJ"
+    },
+    {
+      "title": "Animal",
+      "authors": [
+        "Lisa Taddeo"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2021-06-08",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 336,
+      "language": "en",
+      "isbn_10": "1982122129",
+      "isbn_13": "9781982122126",
+      "google_books_id": "jJ0tEAAAQBAJ"
+    },
+    {
+      "title": "The One Hundred Years of Lenni and Margot",
+      "authors": [
+        "Marianne Cronin"
+      ],
+      "publisher": "Harper Perennial",
+      "published_date": "2021-06",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 352,
+      "language": "en",
+      "isbn_10": "0063017504",
+      "isbn_13": "9780063017504",
+      "google_books_id": "0Ey_zQEACAAJ"
+    },
+    {
+      "title": "The Love Songs of W.E.B. Du Bois",
+      "authors": [
+        "Honorée Fanonne Jeffers"
+      ],
+      "publisher": "Harper",
+      "published_date": "2021",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 816,
+      "language": "en",
+      "isbn_10": "006294293X",
+      "isbn_13": "9780062942937",
+      "google_books_id": "hti-zQEACAAJ"
+    },
+    {
+      "title": "The Foundling",
+      "authors": [
+        "Ann Leary"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2022-05-31",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 336,
+      "language": "en",
+      "isbn_10": "198212038X",
+      "isbn_13": "9781982120382",
+      "google_books_id": "0whuEAAAQBAJ"
+    },
+    {
+      "title": "The Long Way Back",
+      "authors": [
+        "Nicole Baart"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2023-06-13",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 384,
+      "language": "en",
+      "isbn_10": "1982115106",
+      "isbn_13": "9781982115104",
+      "google_books_id": "riC_EAAAQBAJ"
+    },
+    {
+      "title": "Every Cloak Rolled in Blood",
+      "authors": [
+        "James Lee Burke"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2022-05-24",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 288,
+      "language": "en",
+      "isbn_10": "1982196599",
+      "isbn_13": "9781982196592",
+      "google_books_id": "Qt5sEAAAQBAJ"
+    },
+    {
+      "title": "We Are the Light",
+      "authors": [
+        "Matthew Quick"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2022-11",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 256,
+      "language": "en",
+      "isbn_10": "1668005425",
+      "isbn_13": "9781668005422",
+      "google_books_id": "w5-SEAAAQBAJ"
+    },
+    {
+      "title": "Painting the Light",
+      "authors": [
+        "Sally Cabot Gunning"
+      ],
+      "publisher": "William Morrow",
+      "published_date": "2021-06",
+      "year": 2021,
+      "categories": [],
+      "page_count": 368,
+      "language": "en",
+      "isbn_10": "0062916246",
+      "isbn_13": "9780062916242",
+      "google_books_id": "Y8vIzQEACAAJ"
+    },
+    {
+      "title": "The Last Tiara",
+      "authors": [
+        "M. J. Rose"
+      ],
+      "publisher": "Blue Box Press",
+      "published_date": "2021-02-02",
+      "year": 2021,
+      "categories": [],
+      "page_count": 304,
+      "language": "en",
+      "isbn_10": "1952457173",
+      "isbn_13": "9781952457173",
+      "google_books_id": "MXb1zQEACAAJ"
+    },
+    {
+      "title": "Acts of Desperation",
+      "authors": [
+        "Megan Nolan"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-03-09",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 288,
+      "language": "en",
+      "isbn_10": "0316429856",
+      "isbn_13": "9780316429856",
+      "google_books_id": "77-nzQEACAAJ"
+    },
+    {
+      "title": "I Couldn't Love You More",
+      "authors": [
+        "Esther Freud"
+      ],
+      "publisher": "Ecco",
+      "published_date": "2021-07-13",
+      "year": 2021,
+      "categories": [],
+      "page_count": 320,
+      "language": "en",
+      "isbn_10": "0063057182",
+      "isbn_13": "9780063057180",
+      "google_books_id": "5WL4zQEACAAJ"
+    },
+    {
+      "title": "No One Else",
+      "authors": [
+        "R. Kikuo Johnson"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-11-09",
+      "year": 2021,
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "page_count": 104,
+      "language": "en",
+      "isbn_10": "1683964799",
+      "isbn_13": "9781683964797",
+      "google_books_id": "t_BDzgEACAAJ"
+    },
+    {
+      "title": "A Tale of Two Cities",
+      "authors": [
+        "Charles Dickens"
+      ],
+      "publisher": "Union Square Press",
+      "published_date": "2022-10-11",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 424,
+      "language": "en",
+      "isbn_10": "1435172582",
+      "isbn_13": "9781435172586",
+      "google_books_id": "Mhn3zgEACAAJ"
+    },
+    {
+      "title": "The Engineer's Wife",
+      "authors": [
+        "Tracey Enerson Wood"
+      ],
+      "publisher": "Sourcebooks Landmark",
+      "published_date": "2021-02-02",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1728226252",
+      "isbn_13": "9781728226255",
+      "google_books_id": "8eF_zQEACAAJ"
+    },
+    {
+      "title": "Higher Ground",
+      "authors": [
+        "Anke Stelling"
+      ],
+      "publisher": "Scribe Us",
+      "published_date": "2021-05-04",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 276,
+      "language": "en",
+      "isbn_10": "1950354628",
+      "isbn_13": "9781950354627",
+      "google_books_id": "sY-azQEACAAJ"
+    },
+    {
+      "title": "Waiting for the Waters to Rise",
+      "authors": [
+        "Maryse Condé"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-08-05",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 368,
+      "language": "en",
+      "isbn_10": "1642860735",
+      "isbn_13": "9781642860733",
+      "google_books_id": "gNyWzQEACAAJ"
+    },
+    {
+      "title": "The Lost Mother",
+      "authors": [
+        "Catherine Hokin"
+      ],
+      "publisher": "Bookouture",
+      "published_date": "2021-01-28",
+      "year": 2021,
+      "categories": [],
+      "page_count": 340,
+      "language": "en",
+      "isbn_10": "1838889531",
+      "isbn_13": "9781838889531",
+      "google_books_id": "v-gozgEACAAJ"
+    },
+    {
+      "title": "Kalevala",
+      "authors": [
+        "Sami Makkonen"
+      ],
+      "publisher": "Ablaze",
+      "published_date": "2024-04-30",
+      "year": 2024,
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1684972280",
+      "isbn_13": "9781684972289",
+      "google_books_id": "UJ4M0AEACAAJ"
+    },
+    {
+      "title": "Cimmerian Vol 2",
+      "authors": [
+        "Virginie Augustin",
+        "Gess",
+        "R. E. Howard"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-10-26",
+      "year": 2021,
+      "categories": [],
+      "page_count": 144,
+      "language": "en",
+      "isbn_10": "1950912442",
+      "isbn_13": "9781950912445",
+      "google_books_id": "FX88zgEACAAJ"
+    },
+    {
+      "title": "Cimmerian Vol 4",
+      "authors": [
+        "Mathieu Gabella",
+        "Virginie Augustin",
+        "Julien Blondel",
+        "Gess",
+        "R. E. Howard"
+      ],
+      "publisher": "Ablaze",
+      "published_date": "2022-08-30",
+      "year": 2022,
+      "categories": [],
+      "page_count": 200,
+      "language": "en",
+      "isbn_10": "1684970377",
+      "isbn_13": "9781684970377",
+      "google_books_id": "5KvZzgEACAAJ"
+    },
+    {
+      "title": "Zerocalcare's Forget My Name",
+      "authors": [
+        "Zerocalcare"
+      ],
+      "publisher": "Ablaze",
+      "published_date": "2022-05-03",
+      "year": 2022,
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "page_count": 240,
+      "language": "en",
+      "isbn_10": "1950912728",
+      "isbn_13": "9781950912728",
+      "google_books_id": "xfu3zgEACAAJ"
+    },
+    {
+      "title": "Earthlings",
+      "authors": [
+        "Sayaka Murata"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-09-21",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "0802157017",
+      "isbn_13": "9780802157010",
+      "google_books_id": "TKUyygEACAAJ"
+    },
+    {
+      "title": "Brotherhood",
+      "authors": [
+        "Mohamed Mbougar Sarr"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1609456726",
+      "isbn_13": "9781609456726",
+      "google_books_id": "WzDAzQEACAAJ"
+    },
+    {
+      "title": "Breakwater",
+      "authors": [
+        "Katriona Chapman"
+      ],
+      "publisher": "Avery Hill Publishing",
+      "published_date": "2020-11-11",
+      "year": 2020,
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "page_count": 160,
+      "language": "en",
+      "isbn_10": "1910395579",
+      "isbn_13": "9781910395578",
+      "google_books_id": "2qRTzQEACAAJ"
+    },
+    {
+      "title": "The New Manifesto: Or The Slow Eroding of Time",
+      "authors": [
+        "Sam Ernst"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-09-14",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 308,
+      "language": "en",
+      "isbn_10": "1734023716",
+      "isbn_13": "9781734023718",
+      "google_books_id": "q-Y4zgEACAAJ"
+    },
+    {
+      "title": "Victory Point",
+      "authors": [
+        "Owen D. Pomery"
+      ],
+      "publisher": "Avery Hill Publishing",
+      "published_date": "2020-09-10",
+      "year": 2020,
+      "categories": [
+        "Graphic novels"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1910395528",
+      "isbn_13": "9781910395523",
+      "google_books_id": "fQD1yAEACAAJ"
+    },
+    {
+      "title": "A History of Present Illness",
+      "authors": [
+        "Anna DeForest"
+      ],
+      "publisher": "N/A",
+      "published_date": "2022-08-16",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 176,
+      "language": "en",
+      "isbn_10": "0316381063",
+      "isbn_13": "9780316381062",
+      "google_books_id": "DCXAzgEACAAJ"
+    },
+    {
+      "title": "An All-in-One Guide to Become a Bestseller",
+      "authors": [
+        "Ukiyoto"
+      ],
+      "publisher": "Ukiyoto Publishing",
+      "published_date": "2023-05-05",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 108,
+      "language": "en",
+      "isbn_10": "9357874712",
+      "isbn_13": "9789357874717",
+      "google_books_id": "KYy9EAAAQBAJ"
+    },
+    {
+      "title": "Bestsellers: Popular Fiction Since 1900",
+      "authors": [
+        "Clive Bloom"
+      ],
+      "publisher": "Springer Nature",
+      "published_date": "2022-01-03",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 468,
+      "language": "en",
+      "isbn_10": "3030791548",
+      "isbn_13": "9783030791544",
+      "google_books_id": "aptXEAAAQBAJ"
+    },
+    {
+      "title": "From a Far and Lovely Country",
+      "authors": [
+        "Alexander McCall Smith"
+      ],
+      "publisher": "Random House",
+      "published_date": "2024-09-03",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 257,
+      "language": "en",
+      "isbn_10": "1039004431",
+      "isbn_13": "9781039004436",
+      "google_books_id": "bsEIEQAAQBAJ"
+    },
+    {
+      "title": "Fable of Happiness",
+      "authors": [
+        "Pepper Winters"
+      ],
+      "publisher": "Pepper Winters",
+      "published_date": "2021-08-03",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 516,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "drgvEAAAQBAJ"
+    },
+    {
+      "title": "Shopping for a Yankee Swap",
+      "authors": [
+        "Julia Kent"
+      ],
+      "publisher": "Julia Kent",
+      "published_date": "2020-12-23",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 262,
+      "language": "en",
+      "isbn_10": "1950172597",
+      "isbn_13": "9781950172597",
+      "google_books_id": "9M8HEAAAQBAJ"
+    },
+    {
+      "title": "The Royal Ambition Series",
+      "authors": [
+        "M. C. Beaton"
+      ],
+      "publisher": "Rosetta Books",
+      "published_date": "2020-10-16",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 984,
+      "language": "en",
+      "isbn_10": "0795351356",
+      "isbn_13": "9780795351358",
+      "google_books_id": "JkEDEAAAQBAJ"
+    },
+    {
+      "title": "The Proposal Laughbox",
+      "authors": [
+        "Julia Kent"
+      ],
+      "publisher": "Julia Kent",
+      "published_date": "2022-09-13",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 894,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "bsSHEAAAQBAJ"
+    },
+    {
+      "title": "A Prince for Christmas",
+      "authors": [
+        "Kindra Woods"
+      ],
+      "publisher": "Alpha Temptress Publishing",
+      "published_date": "2022-07-19",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 224,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "UbubEAAAQBAJ"
+    },
+    {
+      "title": "What Have You Done?",
+      "authors": [
+        "Shari Lapena"
+      ],
+      "publisher": "Penguin Group",
+      "published_date": "2025-06-17",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 321,
+      "language": "en",
+      "isbn_10": "0593489985",
+      "isbn_13": "9780593489987",
+      "google_books_id": "1F1OEQAAQBAJ"
+    },
+    {
+      "title": "This Is a Classic",
+      "authors": [
+        "Regina Galasso"
+      ],
+      "publisher": "Bloomsbury Publishing USA",
+      "published_date": "2023-01-26",
+      "year": 2023,
+      "categories": [
+        "Language Arts & Disciplines"
+      ],
+      "page_count": 345,
+      "language": "en",
+      "isbn_10": "1501376934",
+      "isbn_13": "9781501376931",
+      "google_books_id": "FUylEAAAQBAJ"
+    },
+    {
+      "title": "Christmasly Obedient",
+      "authors": [
+        "Julia Kent"
+      ],
+      "publisher": "Julia Kent",
+      "published_date": "2020-11-24",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 129,
+      "language": "en",
+      "isbn_10": "1950173844",
+      "isbn_13": "9781950173846",
+      "google_books_id": "3xUFEAAAQBAJ"
+    },
+    {
+      "title": "Crown of Midnight",
+      "authors": [
+        "Sarah J. Maas"
+      ],
+      "publisher": "Bloomsbury Publishing",
+      "published_date": "2020-10-01",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 452,
+      "language": "en",
+      "isbn_10": "1526634368",
+      "isbn_13": "9781526634368",
+      "google_books_id": "aMwAEAAAQBAJ"
+    },
+    {
+      "title": "The Cambridge Companion to World Crime Fiction",
+      "authors": [
+        "Jesper Gulddal",
+        "Stewart King",
+        "Alistair Rolls"
+      ],
+      "publisher": "Cambridge University Press",
+      "published_date": "2022-04-21",
+      "year": 2022,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "page_count": 331,
+      "language": "en",
+      "isbn_10": "1108605354",
+      "isbn_13": "9781108605359",
+      "google_books_id": "hA5oEAAAQBAJ"
+    },
+    {
+      "title": "A Ferry Merry Christmas",
+      "authors": [
+        "Debbie Macomber"
+      ],
+      "publisher": "Ballantine Books",
+      "published_date": "2025-10-21",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 273,
+      "language": "en",
+      "isbn_10": "0593974689",
+      "isbn_13": "9780593974681",
+      "google_books_id": "AeRAEQAAQBAJ"
+    },
+    {
+      "title": "The Women",
+      "authors": [
+        "Kristin Hannah"
+      ],
+      "publisher": "Pan Macmillan",
+      "published_date": "2024-02-15",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 446,
+      "language": "en",
+      "isbn_10": "1035005700",
+      "isbn_13": "9781035005703",
+      "google_books_id": "pPK8EAAAQBAJ"
+    },
+    {
+      "title": "Collected Stories : Guy De Maupassant(Set of 3 Bestseller Books)",
+      "authors": [
+        "Guy de Maupassant"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2022-03-26",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 624,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "7khmEAAAQBAJ"
+    },
+    {
+      "title": "The Islands Collection",
+      "authors": [
+        "Victoria Hislop"
+      ],
+      "publisher": "Headline",
+      "published_date": "2020-05-04",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 799,
+      "language": "en",
+      "isbn_10": "1472278224",
+      "isbn_13": "9781472278227",
+      "google_books_id": "6CLhDwAAQBAJ"
+    },
+    {
+      "title": "The Smart Ones",
+      "authors": [
+        "Jack Sharkey"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-09-23",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 14,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "FW0jEQAAQBAJ"
+    },
+    {
+      "title": "Before He Harms (A Mackenzie White Mystery-Book 14)",
+      "authors": [
+        "Blake Pierce"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-06-04",
+      "year": 2021,
+      "categories": [],
+      "page_count": 188,
+      "language": "en",
+      "isbn_10": "1094391492",
+      "isbn_13": "9781094391496",
+      "google_books_id": "yCOLzgEACAAJ"
+    },
+    {
+      "title": "The Group",
+      "authors": [
+        "Sigge Eklund"
+      ],
+      "publisher": "Bonnier Books UK",
+      "published_date": "2024-08-08",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 247,
+      "language": "en",
+      "isbn_10": "1804186538",
+      "isbn_13": "9781804186534",
+      "google_books_id": "a2T1EAAAQBAJ"
+    },
+    {
+      "title": "Just David",
+      "authors": [
+        "Eleanor H. Porter"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-09-13",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 186,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "UyUhEQAAQBAJ"
+    },
+    {
+      "title": "The Dark Mother a Novel",
+      "authors": [
+        "Waldo David Frank"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-08-31",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 343,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "PDUeEQAAQBAJ"
+    },
+    {
+      "title": "Angela's Business",
+      "authors": [
+        "Henry Sydnor Harrison"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-09-13",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 312,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "_D8hEQAAQBAJ"
+    },
+    {
+      "title": "Anna",
+      "authors": [
+        "Amanda Prowse"
+      ],
+      "publisher": "Aria",
+      "published_date": "2025-11-06",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1035923564",
+      "isbn_13": "9781035923564",
+      "google_books_id": "uoBp0QEACAAJ"
+    },
+    {
+      "title": "Season of Passion",
+      "authors": [
+        "Danielle Steel"
+      ],
+      "publisher": "Sphere",
+      "published_date": "2021-10-07",
+      "year": 2021,
+      "categories": [],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "0751584746",
+      "isbn_13": "9780751584745",
+      "google_books_id": "WQhczgEACAAJ"
+    },
+    {
+      "title": "Stay Close to Me",
+      "authors": [
+        "HELEN. WARNER"
+      ],
+      "publisher": "N/A",
+      "published_date": "2020-10",
+      "year": 2020,
+      "categories": [],
+      "page_count": 416,
+      "language": "en",
+      "isbn_10": "147119261X",
+      "isbn_13": "9781471192616",
+      "google_books_id": "VjI5zQEACAAJ"
+    },
+    {
+      "title": "The Vanishing Half",
+      "authors": [
+        "Brit Bennett"
+      ],
+      "publisher": "Penguin",
+      "published_date": "2020-06-02",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 354,
+      "language": "en",
+      "isbn_10": "0525536299",
+      "isbn_13": "9780525536291",
+      "google_books_id": "-vnoDwAAQBAJ"
+    },
+    {
+      "title": "Simon Called Peter",
+      "authors": [
+        "Robert Keable"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-09-10",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 319,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "u3ggEQAAQBAJ"
+    },
+    {
+      "title": "When the Stars Go Dark",
+      "authors": [
+        "Paula McLain"
+      ],
+      "publisher": "Point Blank",
+      "published_date": "2021-05-13",
+      "year": 2021,
+      "categories": [
+        "Detective and mystery stories"
+      ],
+      "page_count": 384,
+      "language": "en",
+      "isbn_10": "0861540808",
+      "isbn_13": "9780861540808",
+      "google_books_id": "jaQWzgEACAAJ"
+    },
+    {
+      "title": "The Villa of Dreams",
+      "authors": [
+        "Lucy Coleman"
+      ],
+      "publisher": "Boldwood Books Ltd",
+      "published_date": "2020-12-01",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 338,
+      "language": "en",
+      "isbn_10": "1838890637",
+      "isbn_13": "9781838890636",
+      "google_books_id": "cNr8DwAAQBAJ"
+    },
+    {
+      "title": "The Hotel Nantucket",
+      "authors": [
+        "Elin Hilderbrand"
+      ],
+      "publisher": "Hachette UK",
+      "published_date": "2022-06-14",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 590,
+      "language": "en",
+      "isbn_10": "1399709968",
+      "isbn_13": "9781399709965",
+      "google_books_id": "qstmEAAAQBAJ"
+    },
+    {
+      "title": "Inconstancy",
+      "authors": [
+        "Roger D. Aycock"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-05-08",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 10,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "zmkGEQAAQBAJ"
+    },
+    {
+      "title": "The Homemade God",
+      "authors": [
+        "Rachel Joyce"
+      ],
+      "publisher": "Random House",
+      "published_date": "2025-04-17",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 315,
+      "language": "en",
+      "isbn_10": "1473595908",
+      "isbn_13": "9781473595903",
+      "google_books_id": "6_fDEAAAQBAJ"
+    },
+    {
+      "title": "Blank?",
+      "authors": [
+        "Randall Garrett"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-08-31",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 10,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "EDUeEQAAQBAJ"
+    },
+    {
+      "title": "The Modern Writer",
+      "authors": [
+        "Sherwood Anderson"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-08-31",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 21,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "_DIeEQAAQBAJ"
+    },
+    {
+      "title": "The Lost Notebook",
+      "authors": [
+        "Louise Douglas"
+      ],
+      "publisher": "Boldwood Books Ltd",
+      "published_date": "2022-09-05",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 357,
+      "language": "en",
+      "isbn_10": "1838892931",
+      "isbn_13": "9781838892937",
+      "google_books_id": "DWh4EAAAQBAJ"
+    },
+    {
+      "title": "The Other People",
+      "authors": [
+        "C. J. Tudor"
+      ],
+      "publisher": "Penguin UK",
+      "published_date": "2020-01-23",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 317,
+      "language": "en",
+      "isbn_10": "1405939648",
+      "isbn_13": "9781405939645",
+      "google_books_id": "szmIDwAAQBAJ"
+    },
+    {
+      "title": "The Wedding Party",
+      "authors": [
+        "Cathy Kelly"
+      ],
+      "publisher": "Orion",
+      "published_date": "2022-07-21",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 301,
+      "language": "en",
+      "isbn_10": "1409179338",
+      "isbn_13": "9781409179337",
+      "google_books_id": "G51LEAAAQBAJ"
+    },
+    {
+      "title": "A Faithful Heart",
+      "authors": [
+        "George Moore"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-08-30",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 17,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "FtcdEQAAQBAJ"
+    },
+    {
+      "title": "Moby Dick or The Whale",
+      "authors": [
+        "Herman Melville"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-09-10",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 634,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "SVogEQAAQBAJ"
+    },
+    {
+      "title": "The Midnight Library",
+      "authors": [
+        "Matt Haig"
+      ],
+      "publisher": "Canongate Books",
+      "published_date": "2020-08-13",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 324,
+      "language": "en",
+      "isbn_10": "1786892715",
+      "isbn_13": "9781786892713",
+      "google_books_id": "M53SDwAAQBAJ"
+    },
+    {
+      "title": "The U. P. Trail",
+      "authors": [
+        "Zane Grey"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-09-13",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 377,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "QEEhEQAAQBAJ"
+    },
+    {
+      "title": "The White Bird and Gold",
+      "authors": [
+        "Peggy Mercer"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-07-11",
+      "year": 2021,
+      "categories": [],
+      "page_count": 375,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798534371352",
+      "google_books_id": "3mmOzgEACAAJ"
+    },
+    {
+      "title": "The Embalmer",
+      "authors": [
+        "Alison Belsham"
+      ],
+      "publisher": "Trapeze",
+      "published_date": "2020-11-12",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 379,
+      "language": "en",
+      "isbn_10": "1409182711",
+      "isbn_13": "9781409182719",
+      "google_books_id": "SGnSDwAAQBAJ"
+    },
+    {
+      "title": "The Charterhouse of Parma, Volume 1",
+      "authors": [
+        "Stendhal"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-09-23",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 609,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "e4EjEQAAQBAJ"
+    },
+    {
+      "title": "Fifty Shades Freed",
+      "authors": [
+        "E.l. James"
+      ],
+      "publisher": "Century",
+      "published_date": "2022-10-06",
+      "year": 2022,
+      "categories": [],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1529199808",
+      "isbn_13": "9781529199802",
+      "google_books_id": "F2YAzwEACAAJ"
+    },
+    {
+      "title": "The Book of Life",
+      "authors": [
+        "Upton Sinclair"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-06-01",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 530,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "a9MLEQAAQBAJ"
+    },
+    {
+      "title": "A pound of prevention",
+      "authors": [
+        "G. C. Edmondson"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-07-01",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 14,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "r4UREQAAQBAJ"
+    },
+    {
+      "title": "Unleavened Bread",
+      "authors": [
+        "Robert Grant"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-09-17",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 345,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "5uQhEQAAQBAJ"
+    },
+    {
+      "title": "The Heart of the New Thought",
+      "authors": [
+        "Ella Wheeler Wilcox"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-09-09",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 73,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "9zggEQAAQBAJ"
+    },
+    {
+      "title": "Hide and Seek",
+      "authors": [
+        "Fiodor Sologub"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-08-30",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 16,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "PtcdEQAAQBAJ"
+    },
+    {
+      "title": "Burmese Days",
+      "authors": [
+        "George Orwell"
+      ],
+      "publisher": "Prabhat Prakashan",
+      "published_date": "2024-06-14",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 249,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "q2cOEQAAQBAJ"
+    },
+    {
+      "title": "Sister Friends Forever",
+      "authors": [
+        "Kimberla L. Roby"
+      ],
+      "publisher": "N/A",
+      "published_date": "2023-06-13",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1538708965",
+      "isbn_13": "9781538708965",
+      "google_books_id": "uSyPzwEACAAJ"
+    },
+    {
+      "title": "A Season on the Wind",
+      "authors": [
+        "Suzanne Woods Fisher"
+      ],
+      "publisher": "Thorndike Press Large Print",
+      "published_date": "2022",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1432893947",
+      "isbn_13": "9781432893941",
+      "google_books_id": "446bzgEACAAJ"
+    },
+    {
+      "title": "The Priest",
+      "authors": [
+        "Tiffany Reisz"
+      ],
+      "publisher": "N/A",
+      "published_date": "2020",
+      "year": 2020,
+      "categories": [
+        "Electronic books"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1370963912",
+      "isbn_13": "9781370963911",
+      "google_books_id": "kPJIzgEACAAJ"
+    },
+    {
+      "title": "Guarding Temptation",
+      "authors": [
+        "Talia Hibbert"
+      ],
+      "publisher": "N/A",
+      "published_date": "2020",
+      "year": 2020,
+      "categories": [
+        "African Americans"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "0003816222",
+      "isbn_13": "9780003816228",
+      "google_books_id": "U60gzgEACAAJ"
+    },
+    {
+      "title": "The Journal of the Royal Agricultural Society of England",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2024-08-26",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 630,
+      "language": "en",
+      "isbn_10": "336875050X",
+      "isbn_13": "9783368750503",
+      "google_books_id": "ELccEQAAQBAJ"
+    },
+    {
+      "title": "The Journal of the New York State",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-07-23",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 346,
+      "language": "en",
+      "isbn_10": "3382817357",
+      "isbn_13": "9783382817350",
+      "google_books_id": "7M7MEAAAQBAJ"
+    },
+    {
+      "title": "The Journal of the Royal Agriculture Society of England",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-08-05",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 634,
+      "language": "en",
+      "isbn_10": "3563534667",
+      "isbn_13": "9783563534663",
+      "google_books_id": "8T13EQAAQBAJ"
+    },
+    {
+      "title": "The Cottage Gardener",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-04-21",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 414,
+      "language": "en",
+      "isbn_10": "3382315475",
+      "isbn_13": "9783382315474",
+      "google_books_id": "e-66EAAAQBAJ"
+    },
+    {
+      "title": "Annual Report of the American Institute of the City of New York",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-08-12",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 526,
+      "language": "en",
+      "isbn_10": "3563866643",
+      "isbn_13": "9783563866641",
+      "google_books_id": "V4Z5EQAAQBAJ"
+    },
+    {
+      "title": "History of Polled Aberdeen or Angus Cattle. Giving an Account of the Origin, Improvement, and Characteristics of the Breed",
+      "authors": [
+        "James MacDonald",
+        "James Sinclair"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2024-05-01",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 510,
+      "language": "en",
+      "isbn_10": "3385444292",
+      "isbn_13": "9783385444294",
+      "google_books_id": "p5EFEQAAQBAJ"
+    },
+    {
+      "title": "The Cottage Gardener",
+      "authors": [
+        "George W. Johnson",
+        "Robert Hogg"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-02-15",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 418,
+      "language": "en",
+      "isbn_10": "3382306115",
+      "isbn_13": "9783382306113",
+      "google_books_id": "JSOuEAAAQBAJ"
+    },
+    {
+      "title": "The Journal of the Royal Agricultural Society of England Second Series",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2024-08-26",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 798,
+      "language": "en",
+      "isbn_10": "3368750690",
+      "isbn_13": "9783368750695",
+      "google_books_id": "-MwcEQAAQBAJ"
+    },
+    {
+      "title": "Compilation of Navy and Other Laws",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-11-18",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 382,
+      "language": "en",
+      "isbn_10": "3385223881",
+      "isbn_13": "9783385223882",
+      "google_books_id": "VgXkEAAAQBAJ"
+    },
+    {
+      "title": "Judgments Delivered in the Courts of The United States for the District of Massachusetts",
+      "authors": [
+        "John Lowell"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-03-09",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 638,
+      "language": "en",
+      "isbn_10": "3368160265",
+      "isbn_13": "9783368160265",
+      "google_books_id": "ZgWzEAAAQBAJ"
+    },
+    {
+      "title": "Digest of the Opinions of the Attorneys General of the United States",
+      "authors": [
+        "C.C. Andrews"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-08-25",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 509,
+      "language": "en",
+      "isbn_10": "3563575355",
+      "isbn_13": "9783563575352",
+      "google_books_id": "YQaDEQAAQBAJ"
+    },
+    {
+      "title": "The Medical Times and Gazette",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2024-05-08",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 718,
+      "language": "en",
+      "isbn_10": "3385257670",
+      "isbn_13": "9783385257672",
+      "google_books_id": "9PQGEQAAQBAJ"
+    },
+    {
+      "title": "A Treatise on the Law of Shipping and the Law and Practice of Admirality",
+      "authors": [
+        "Theophilus Parsons"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2020-09-22",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 946,
+      "language": "en",
+      "isbn_10": "3752500719",
+      "isbn_13": "9783752500714",
+      "google_books_id": "dzP_DwAAQBAJ"
+    },
+    {
+      "title": "The Gardeners' Chronicle and Agricultural Gazette for 1858",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-04-21",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 950,
+      "language": "en",
+      "isbn_10": "3382314592",
+      "isbn_13": "9783382314590",
+      "google_books_id": "2eW6EAAAQBAJ"
+    },
+    {
+      "title": "The Medical Record",
+      "authors": [
+        "George F. Shrady"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2024-05-09",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 882,
+      "language": "en",
+      "isbn_10": "3385256461",
+      "isbn_13": "9783385256460",
+      "google_books_id": "9PYGEQAAQBAJ"
+    },
+    {
+      "title": "A Treatise Upon the United States Courts and Their Practice. Explaining the Enactments by which They are Controlled, Their Organization and Powers, Their Peculiar Jurisdiction, and the Modes of Pleading and Procedure in Them, with Numerous Practical Forms",
+      "authors": [
+        "Benjamin Vaughan Abbott"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-08-05",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 646,
+      "language": "en",
+      "isbn_10": "3563534829",
+      "isbn_13": "9783563534823",
+      "google_books_id": "7z13EQAAQBAJ"
+    },
+    {
+      "title": "Compilation of Laws Relating to the Navy, Marine Corps, etc.: From the Revised Statutes and Subsequent Acts, to March 3, 1883",
+      "authors": [
+        "John W. Hogg"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-10-06",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 398,
+      "language": "en",
+      "isbn_10": "3563982031",
+      "isbn_13": "9783563982037",
+      "google_books_id": "LcaMEQAAQBAJ"
+    },
+    {
+      "title": "Asiatic Journal and Monthly Register",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-08-10",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 698,
+      "language": "en",
+      "isbn_10": "356383444X",
+      "isbn_13": "9783563834442",
+      "google_books_id": "6Ll4EQAAQBAJ"
+    },
+    {
+      "title": "The Gardeners' Chronicle and Agricultural Gazette for 1859",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-03-03",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1078,
+      "language": "en",
+      "isbn_10": "3382308630",
+      "isbn_13": "9783382308636",
+      "google_books_id": "QoKxEAAAQBAJ"
+    },
+    {
+      "title": "A Law Dictionary, Adapted to the Constitution and Laws of the United States of America",
+      "authors": [
+        "John Bouvier"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-04-16",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 862,
+      "language": "en",
+      "isbn_10": "336895878X",
+      "isbn_13": "9783368958787",
+      "google_books_id": "6qNWEQAAQBAJ"
+    },
+    {
+      "title": "The Navy List",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2022-06-25",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 422,
+      "language": "en",
+      "isbn_10": "3375063865",
+      "isbn_13": "9783375063863",
+      "google_books_id": "-D93EAAAQBAJ"
+    },
+    {
+      "title": "Commentaries on the Laws of England",
+      "authors": [
+        "William Blackstone"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-11-21",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 774,
+      "language": "en",
+      "isbn_10": "3382824574",
+      "isbn_13": "9783382824570",
+      "google_books_id": "sq_kEAAAQBAJ"
+    },
+    {
+      "title": "The Bulwark, or Reformation Journal",
+      "authors": [
+        "Scottish Reformation Society"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-09-29",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 678,
+      "language": "en",
+      "isbn_10": "3563630461",
+      "isbn_13": "9783563630464",
+      "google_books_id": "Y4CKEQAAQBAJ"
+    },
+    {
+      "title": "Fortieth Annual Report of the President of Harvard College to the Overseers",
+      "authors": [
+        "Harvard University"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2021-12-17",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 458,
+      "language": "en",
+      "isbn_10": "3752552972",
+      "isbn_13": "9783752552973",
+      "google_books_id": "FF1VEAAAQBAJ"
+    },
+    {
+      "title": "Brooklyn Chess Chronicle",
+      "authors": [
+        "J. B. Muñoz",
+        "E. M. Muñoz"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-09-04",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 234,
+      "language": "en",
+      "isbn_10": "3563913587",
+      "isbn_13": "9783563913581",
+      "google_books_id": "uc-FEQAAQBAJ"
+    },
+    {
+      "title": "Slav Sisters",
+      "authors": [
+        "Natasha Perova"
+      ],
+      "publisher": "SCB Distributors",
+      "published_date": "2020-04-30",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 290,
+      "language": "en",
+      "isbn_10": "1910213861",
+      "isbn_13": "9781910213865",
+      "google_books_id": "7LvhDwAAQBAJ"
+    },
+    {
+      "title": "The Publishers' Weekly",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-08-20",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 510,
+      "language": "en",
+      "isbn_10": "3382819619",
+      "isbn_13": "9783382819613",
+      "google_books_id": "Fc_REAAAQBAJ"
+    },
+    {
+      "title": "The Inaugural Address of His Honor John J. Donovan, MA City Documents 1882-1883",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2024-01-05",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 782,
+      "language": "en",
+      "isbn_10": "3385305616",
+      "isbn_13": "9783385305618",
+      "google_books_id": "LIPsEAAAQBAJ"
+    },
+    {
+      "title": "The Big Door Prize",
+      "authors": [
+        "M. O. Walsh"
+      ],
+      "publisher": "Penguin",
+      "published_date": "2020-09-08",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 386,
+      "language": "en",
+      "isbn_10": "0735218498",
+      "isbn_13": "9780735218499",
+      "google_books_id": "Cda1DwAAQBAJ"
+    },
+    {
+      "title": "Epitome of the Law of Arbitration and Awards",
+      "authors": [
+        "Joshua Slater"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2024-02-16",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 182,
+      "language": "en",
+      "isbn_10": "3385345391",
+      "isbn_13": "9783385345393",
+      "google_books_id": "_W_1EAAAQBAJ"
+    },
+    {
+      "title": "Index to Precedents in Conveyancing, and to Common and Comercial Forms",
+      "authors": [
+        "Walter Arthur Copinger"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-06-10",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 594,
+      "language": "en",
+      "isbn_10": "3368169564",
+      "isbn_13": "9783368169565",
+      "google_books_id": "12_EEAAAQBAJ"
+    },
+    {
+      "title": "Arbitrations",
+      "authors": [
+        "Banister Fletcher"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-10-14",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 118,
+      "language": "en",
+      "isbn_10": "3385203783",
+      "isbn_13": "9783385203785",
+      "google_books_id": "h-fcEAAAQBAJ"
+    },
+    {
+      "title": "The Law and Practice in Special Proceedings, and in Special Cases",
+      "authors": [
+        "Charles Crary"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-10-17",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 830,
+      "language": "en",
+      "isbn_10": "3563639647",
+      "isbn_13": "9783563639641",
+      "google_books_id": "tRuQEQAAQBAJ"
+    },
+    {
+      "title": "Digest of Indiana Decisions, from the Organization of the Supreme Court, May Term, 1817, First Blackford, to the Sitting of the Supreme Court Commissioners, May Term, 1881, Seventy-third Indiana",
+      "authors": [
+        "Warwick Hawley Ripley"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-07-29",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1002,
+      "language": "en",
+      "isbn_10": "3563386579",
+      "isbn_13": "9783563386576",
+      "google_books_id": "W5x1EQAAQBAJ"
+    },
+    {
+      "title": "Dare to fearless",
+      "authors": [
+        "Ammara Abid"
+      ],
+      "publisher": "Spectrum of Thoughts",
+      "published_date": "2025-01-08",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 104,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "iSM9EQAAQBAJ"
+    },
+    {
+      "title": "Echoes Of An Anxious soul",
+      "authors": [],
+      "publisher": "Sahityik sahayak",
+      "published_date": "2025-07-08",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 145,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "owxsEQAAQBAJ"
+    },
+    {
+      "title": "DAZZLING US",
+      "authors": [
+        "PAVITHRA"
+      ],
+      "publisher": "Wordsswiggle publication",
+      "published_date": "2025-04-08",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 69,
+      "language": "en",
+      "isbn_10": "9348391054",
+      "isbn_13": "9789348391056",
+      "google_books_id": "9wZUEQAAQBAJ"
+    },
+    {
+      "title": "A Digest of the Decisions of the Courts of England",
+      "authors": [
+        "Chauncey Smith"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-08-30",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 938,
+      "language": "en",
+      "isbn_10": "3563626685",
+      "isbn_13": "9783563626689",
+      "google_books_id": "suGEEQAAQBAJ"
+    },
+    {
+      "title": "The Legislative Acts of the Governor-General of India in Council",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-02-28",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 146,
+      "language": "en",
+      "isbn_10": "3382500469",
+      "isbn_13": "9783382500467",
+      "google_books_id": "xNqwEAAAQBAJ"
+    },
+    {
+      "title": "Crabb's Complete Series of Precedents in Conveyancing",
+      "authors": [
+        "J.T. Christie"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-02-15",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 734,
+      "language": "en",
+      "isbn_10": "3382306581",
+      "isbn_13": "9783382306588",
+      "google_books_id": "6SCuEAAAQBAJ"
+    },
+    {
+      "title": "The Law and Practice in Civil Actions and Proceedings in Justices' Courts and on Appeals to the County Courts in the State of New York",
+      "authors": [
+        "William Wait",
+        "Edwin Baylies"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2024-05-31",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1082,
+      "language": "en",
+      "isbn_10": "3385485436",
+      "isbn_13": "9783385485433",
+      "google_books_id": "yI4LEQAAQBAJ"
+    },
+    {
+      "title": "A Digest of all the Reported Decision of the Supreme Court of the State of Vermont",
+      "authors": [
+        "Daniel Roberts"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-11-27",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 898,
+      "language": "en",
+      "isbn_10": "3368505513",
+      "isbn_13": "9783368505516",
+      "google_books_id": "csblEAAAQBAJ"
+    },
+    {
+      "title": "The Statutes of Illinois",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2024-01-12",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 518,
+      "language": "en",
+      "isbn_10": "3368854720",
+      "isbn_13": "9783368854720",
+      "google_books_id": "OKntEAAAQBAJ"
+    },
+    {
+      "title": "An Analytical Digest of the Cases Published in the New Series of the Law Journal Reports and Other Reports",
+      "authors": [
+        "Francis Towers Streeten"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-06-14",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 821,
+      "language": "en",
+      "isbn_10": "3382331845",
+      "isbn_13": "9783382331849",
+      "google_books_id": "fDfFEAAAQBAJ"
+    },
+    {
+      "title": "Debates. Official Report",
+      "authors": [
+        "Anonymous"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-07-14",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1190,
+      "language": "en",
+      "isbn_10": "3388464944",
+      "isbn_13": "9783388464947",
+      "google_books_id": "ZCVxEQAAQBAJ"
+    },
+    {
+      "title": "An Analytical Digest",
+      "authors": [
+        "Edmund Story-Maskelyne"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-06-14",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 770,
+      "language": "en",
+      "isbn_10": "3382813440",
+      "isbn_13": "9783382813444",
+      "google_books_id": "mCzFEAAAQBAJ"
+    },
+    {
+      "title": "The Statutes of The United Kingdom of Great Britain and Ireland",
+      "authors": [
+        "George Kettilby Rickards"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-09-25",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 590,
+      "language": "en",
+      "isbn_10": "3388482381",
+      "isbn_13": "9783388482385",
+      "google_books_id": "u7yJEQAAQBAJ"
+    },
+    {
+      "title": "Infinite Splendours",
+      "authors": [
+        "Sofie Laguna"
+      ],
+      "publisher": "Allen & Unwin",
+      "published_date": "2020-10-27",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 420,
+      "language": "en",
+      "isbn_10": "1761060341",
+      "isbn_13": "9781761060342",
+      "google_books_id": "Osb1DwAAQBAJ"
+    },
+    {
+      "title": "No Place Like Rome",
+      "authors": [
+        "Julie Moffett"
+      ],
+      "publisher": "Harlequin",
+      "published_date": "2024-06-24",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 170,
+      "language": "en",
+      "isbn_10": "0369761375",
+      "isbn_13": "9780369761378",
+      "google_books_id": "S7TyEAAAQBAJ"
+    },
+    {
+      "title": "The One Hundred Years of Lenni and Margot",
+      "authors": [
+        "Marianne Cronin"
+      ],
+      "publisher": "Harper",
+      "published_date": "2021-06",
+      "year": 2021,
+      "categories": [],
+      "page_count": 336,
+      "language": "en",
+      "isbn_10": "006309276X",
+      "isbn_13": "9780063092761",
+      "google_books_id": "hNEFzgEACAAJ"
+    },
+    {
+      "title": "Listen for Water",
+      "authors": [
+        "Marie Beswick Arthur"
+      ],
+      "publisher": "N/A",
+      "published_date": "2022-05-31",
+      "year": 2022,
+      "categories": [],
+      "page_count": 354,
+      "language": "en",
+      "isbn_10": "1989059937",
+      "isbn_13": "9781989059937",
+      "google_books_id": "u-0qzwEACAAJ"
+    },
+    {
+      "title": "Sports Is Hell: Hardcover Edition",
+      "authors": [
+        "Ben Passmore"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-12-15",
+      "year": 2021,
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "page_count": 60,
+      "language": "en",
+      "isbn_10": "1945509554",
+      "isbn_13": "9781945509551",
+      "google_books_id": "zO2MzgEACAAJ"
+    },
+    {
+      "title": "An Adventure with a Genius: Recollections of Joseph Pulitzer",
+      "authors": [
+        "Alleyne Ireland"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-08-15",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 177,
+      "language": "en",
+      "isbn_10": "338806332X",
+      "isbn_13": "9783388063324",
+      "google_books_id": "yTp-EQAAQBAJ"
+    },
+    {
+      "title": "3 Books To Know Pulitzer Prize for Fiction",
+      "authors": [
+        "Booth Tarkington",
+        "Edith Wharton",
+        "Willa Cather",
+        "August Nemo"
+      ],
+      "publisher": "Tacet Books",
+      "published_date": "2020-05-02",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1086,
+      "language": "en",
+      "isbn_10": "3967998614",
+      "isbn_13": "9783967998610",
+      "google_books_id": "a7f4DwAAQBAJ"
+    },
+    {
+      "title": "An Adventure with a Genius: Recollections of Joseph Pulitzer",
+      "authors": [
+        "Alleyne Ireland"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2023-03-11",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 178,
+      "language": "en",
+      "isbn_10": "3368344145",
+      "isbn_13": "9783368344146",
+      "google_books_id": "zU-zEAAAQBAJ"
+    },
+    {
+      "title": "John Brown's Body (Winner of the Pulitzer Prize)",
+      "authors": [
+        "Stephen Vincent Benet"
+      ],
+      "publisher": "N/A",
+      "published_date": "2024-01-03",
+      "year": 2024,
+      "categories": [],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1949957187",
+      "isbn_13": "9781949957181",
+      "google_books_id": "4HHgzwEACAAJ"
+    },
+    {
+      "title": "3 Books To Know: Pulitzer Prize for Fiction",
+      "authors": [
+        "Booth Tarkington",
+        "Edith Wharton",
+        "Willa Cather"
+      ],
+      "publisher": "Tacet Books",
+      "published_date": "2020-01-04",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1085,
+      "language": "en",
+      "isbn_10": "8577776522",
+      "isbn_13": "9788577776528",
+      "google_books_id": "GfzHDwAAQBAJ"
+    },
+    {
+      "title": "Night Watch (Pulitzer Prize Winner)",
+      "authors": [
+        "Jayne Anne Phillips"
+      ],
+      "publisher": "Knopf",
+      "published_date": "2023-09-19",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 305,
+      "language": "en",
+      "isbn_10": "0451493338",
+      "isbn_13": "9780451493330",
+      "google_books_id": "tviiEAAAQBAJ"
+    },
+    {
+      "title": "Trust (Pulitzer Prize Winner)",
+      "authors": [
+        "Hernan Diaz"
+      ],
+      "publisher": "Penguin",
+      "published_date": "2023-05-02",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 417,
+      "language": "en",
+      "isbn_10": "0593420322",
+      "isbn_13": "9780593420324",
+      "google_books_id": "QyiwEAAAQBAJ"
+    },
+    {
+      "title": "A Dangerous Business",
+      "authors": [
+        "Jane Smiley"
+      ],
+      "publisher": "Abacus",
+      "published_date": "2023-01-12",
+      "year": 2023,
+      "categories": [],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "0349145458",
+      "isbn_13": "9780349145457",
+      "google_books_id": "oltFzwEACAAJ"
+    },
+    {
+      "title": "The Yearling",
+      "authors": [
+        "Marjorie Kinnan Rawlings"
+      ],
+      "publisher": "Virago",
+      "published_date": "2024-01-04",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 439,
+      "language": "en",
+      "isbn_10": "0349008221",
+      "isbn_13": "9780349008226",
+      "google_books_id": "lAKyEAAAQBAJ"
+    },
+    {
+      "title": "The Age of Innocence",
+      "authors": [
+        "Edith Wharton"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-03-18",
+      "year": 2021,
+      "categories": [],
+      "page_count": 298,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798724341561",
+      "google_books_id": "e39VzgEACAAJ"
+    },
+    {
+      "title": "Now in November",
+      "authors": [
+        "Josephine Johnson"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2022-07-19",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 304,
+      "language": "en",
+      "isbn_10": "1668004224",
+      "isbn_13": "9781668004227",
+      "google_books_id": "U2x2EAAAQBAJ"
+    },
+    {
+      "title": "The Age of Innocence(Pulitzer Prize for Fiction 1921) Illustrated",
+      "authors": [
+        "Edith Wharton"
+      ],
+      "publisher": "Independently Published",
+      "published_date": "2021-01-22",
+      "year": 2021,
+      "categories": [],
+      "page_count": 366,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798596836035",
+      "google_books_id": "2tUrzgEACAAJ"
+    },
+    {
+      "title": "The Able McLaughlins",
+      "authors": [
+        "Margaret Wilson"
+      ],
+      "publisher": "DigiCat",
+      "published_date": "2022-05-28",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 175,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "B_9yEAAAQBAJ"
+    },
+    {
+      "title": "The Antidote",
+      "authors": [
+        "Karen Russell"
+      ],
+      "publisher": "Random House",
+      "published_date": "2025-03-13",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 437,
+      "language": "en",
+      "isbn_10": "1529932386",
+      "isbn_13": "9781529932386",
+      "google_books_id": "NhQREQAAQBAJ"
+    },
+    {
+      "title": "The Age of Innocence Pulitzer Prize for Fiction 1921",
+      "authors": [
+        "edith wharton"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-01-16",
+      "year": 2021,
+      "categories": [],
+      "page_count": 266,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798595686105",
+      "google_books_id": "m6XUzgEACAAJ"
+    },
+    {
+      "title": "The Overstory",
+      "authors": [
+        "Richard Powers"
+      ],
+      "publisher": "Random House",
+      "published_date": "2024-09-04",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 323,
+      "language": "en",
+      "isbn_10": "180495179X",
+      "isbn_13": "9781804951798",
+      "google_books_id": "ymgXEQAAQBAJ"
+    },
+    {
+      "title": "So Big",
+      "authors": [
+        "Edna Ferber"
+      ],
+      "publisher": "Graphic Arts Books",
+      "published_date": "2021-03-02",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 192,
+      "language": "en",
+      "isbn_10": "1513285777",
+      "isbn_13": "9781513285771",
+      "google_books_id": "sdIhEAAAQBAJ"
+    },
+    {
+      "title": "In the Distance",
+      "authors": [
+        "Hernan Diaz"
+      ],
+      "publisher": "Penguin",
+      "published_date": "2024-03-05",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 273,
+      "language": "en",
+      "isbn_10": "0593850580",
+      "isbn_13": "9780593850589",
+      "google_books_id": "h4vsEAAAQBAJ"
+    },
+    {
+      "title": "The Trees",
+      "authors": [
+        "Percival Everett"
+      ],
+      "publisher": "Text Publishing",
+      "published_date": "2022-10-05",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 319,
+      "language": "en",
+      "isbn_10": "1922791377",
+      "isbn_13": "9781922791375",
+      "google_books_id": "LG6KEAAAQBAJ"
+    },
+    {
+      "title": "Over the Front in an Aeroplane, and Scenes Inside the French and Flemish Trenches",
+      "authors": [
+        "Ralph Pulitzer"
+      ],
+      "publisher": "DigiCat",
+      "published_date": "2022-07-20",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 99,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "unl9EAAAQBAJ"
+    },
+    {
+      "title": "Watershed",
+      "authors": [
+        "Percival Everett"
+      ],
+      "publisher": "Pan Macmillan",
+      "published_date": "2025-08-28",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 206,
+      "language": "en",
+      "isbn_10": "1035087057",
+      "isbn_13": "9781035087051",
+      "google_books_id": "z_9ZEQAAQBAJ"
+    },
+    {
+      "title": "Walk Me to the Distance",
+      "authors": [
+        "Percival Everett"
+      ],
+      "publisher": "Pan Macmillan",
+      "published_date": "2025-03-27",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 238,
+      "language": "en",
+      "isbn_10": "1035077248",
+      "isbn_13": "9781035077243",
+      "google_books_id": "C0ZFEQAAQBAJ"
+    },
+    {
+      "title": "One of Ours Illustrated",
+      "authors": [
+        "Willa Cather"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-08-15",
+      "year": 2021,
+      "categories": [],
+      "page_count": 441,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798457176669",
+      "google_books_id": "dG-xzgEACAAJ"
+    },
+    {
+      "title": "The Age of Innocence",
+      "authors": [
+        "Edith Wharton"
+      ],
+      "publisher": "Union Square & Company",
+      "published_date": "2024-09-24",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 221,
+      "language": "en",
+      "isbn_10": "1454954507",
+      "isbn_13": "9781454954507",
+      "google_books_id": "lRPjEAAAQBAJ"
+    },
+    {
+      "title": "Laughing Boy",
+      "authors": [
+        "OLIVER. LA FARGE"
+      ],
+      "publisher": "N/A",
+      "published_date": "2025-07-18",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1515465268",
+      "isbn_13": "9781515465263",
+      "google_books_id": "tQl70QEACAAJ"
+    },
+    {
+      "title": "The Elopement",
+      "authors": [
+        "Gill Hornby"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2025-10-07",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 355,
+      "language": "en",
+      "isbn_10": "163936966X",
+      "isbn_13": "9781639369669",
+      "google_books_id": "xGpDEQAAQBAJ"
+    },
+    {
+      "title": "A Glimpse of My Shorts",
+      "authors": [
+        "David Booker"
+      ],
+      "publisher": "N/A",
+      "published_date": "2023-08-08",
+      "year": 2023,
+      "categories": [],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798223025276",
+      "google_books_id": "OQMX0AEACAAJ"
+    },
+    {
+      "title": "Max T. Booker",
+      "authors": [
+        "Pat Moon"
+      ],
+      "publisher": "Covenant Books, Inc.",
+      "published_date": "2022-08-05",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 126,
+      "language": "en",
+      "isbn_10": "1643002732",
+      "isbn_13": "9781643002736",
+      "google_books_id": "gMQuEAAAQBAJ"
+    },
+    {
+      "title": "The Crypto Pursuit",
+      "authors": [
+        "Brett Booker"
+      ],
+      "publisher": "N/A",
+      "published_date": "2022-03-15",
+      "year": 2022,
+      "categories": [],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1737129779",
+      "isbn_13": "9781737129776",
+      "google_books_id": "BUzwzgEACAAJ"
+    },
+    {
+      "title": "Selected Short Works of Booker T. Washington (Esprios Classics)",
+      "authors": [
+        "Booker T Washington"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-04-07",
+      "year": 2021,
+      "categories": [],
+      "page_count": 130,
+      "language": "en",
+      "isbn_10": "1034750224",
+      "isbn_13": "9781034750222",
+      "google_books_id": "F71kzgEACAAJ"
+    },
+    {
+      "title": "From Slave to College President",
+      "authors": [
+        "G. Holden Pike"
+      ],
+      "publisher": "DigiCat",
+      "published_date": "2022-08-01",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 83,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "2oZ_EAAAQBAJ"
+    },
+    {
+      "title": "Booker",
+      "authors": [
+        "Kathi S. Barton"
+      ],
+      "publisher": "World Castle Publishing, LLC",
+      "published_date": "2021-11-03",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 206,
+      "language": "en",
+      "isbn_10": "1956788247",
+      "isbn_13": "9781956788242",
+      "google_books_id": "7Ci5zgEACAAJ"
+    },
+    {
+      "title": "The Great American Novel",
+      "authors": [
+        "Philip Roth"
+      ],
+      "publisher": "Vintage",
+      "published_date": "2022-09-21",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 418,
+      "language": "en",
+      "isbn_10": "0593685008",
+      "isbn_13": "9780593685006",
+      "google_books_id": "j1d-EAAAQBAJ"
+    },
+    {
+      "title": "Best Literary Translations 2024",
+      "authors": [
+        "Jane Hirshfield"
+      ],
+      "publisher": "Deep Vellum Publishing",
+      "published_date": "2024-04-09",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 191,
+      "language": "en",
+      "isbn_10": "1646053397",
+      "isbn_13": "9781646053391",
+      "google_books_id": "UPDvEAAAQBAJ"
+    },
+    {
+      "title": "Historical Fiction Now",
+      "authors": [
+        "Mark Eaton"
+      ],
+      "publisher": "Oxford University Press",
+      "published_date": "2023",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 241,
+      "language": "en",
+      "isbn_10": "019887703X",
+      "isbn_13": "9780198877035",
+      "google_books_id": "DeLLEAAAQBAJ"
+    },
+    {
+      "title": "Freeman's: Conclusions",
+      "authors": [
+        "John Freeman"
+      ],
+      "publisher": "Grove Press",
+      "published_date": "2023-10-10",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 229,
+      "language": "en",
+      "isbn_10": "0802161480",
+      "isbn_13": "9780802161482",
+      "google_books_id": "wHjaEAAAQBAJ"
+    },
+    {
+      "title": "Pathetic Literature",
+      "authors": [
+        "Eileen Myles"
+      ],
+      "publisher": "Grove Press",
+      "published_date": "2022-11-15",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 597,
+      "language": "en",
+      "isbn_10": "0802157173",
+      "isbn_13": "9780802157171",
+      "google_books_id": "apCZEAAAQBAJ"
+    },
+    {
+      "title": "Buzz Books 2020: Spring/Summer",
+      "authors": [],
+      "publisher": "Publishers Lunch",
+      "published_date": "2020-01-16",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 819,
+      "language": "en",
+      "isbn_10": "1948586312",
+      "isbn_13": "9781948586313",
+      "google_books_id": "VMzKDwAAQBAJ"
+    },
+    {
+      "title": "Buzz Books 2022: Fall/Winter",
+      "authors": [],
+      "publisher": "Publishers Lunch",
+      "published_date": "2022-05-10",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1134,
+      "language": "en",
+      "isbn_10": "1948586509",
+      "isbn_13": "9781948586504",
+      "google_books_id": "sx1tEAAAQBAJ"
+    },
+    {
+      "title": "Memory Piece",
+      "authors": [
+        "Lisa Ko"
+      ],
+      "publisher": "Penguin Group",
+      "published_date": "2025-03-18",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 305,
+      "language": "en",
+      "isbn_10": "0593542118",
+      "isbn_13": "9780593542118",
+      "google_books_id": "WM5AEQAAQBAJ"
+    },
+    {
+      "title": "The Novel as Network",
+      "authors": [
+        "Tim Lanzendörfer",
+        "Corinna Norrick-Rühl"
+      ],
+      "publisher": "Springer Nature",
+      "published_date": "2020-09-23",
+      "year": 2020,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "page_count": 335,
+      "language": "en",
+      "isbn_10": "303053409X",
+      "isbn_13": "9783030534097",
+      "google_books_id": "udX-DwAAQBAJ"
+    },
+    {
+      "title": "Taboos & Transgressions",
+      "authors": [
+        "Luanne Smith",
+        "Devi S. Laskar"
+      ],
+      "publisher": "Madville Publishing",
+      "published_date": "2021-03-04",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 251,
+      "language": "en",
+      "isbn_10": "1948692651",
+      "isbn_13": "9781948692656",
+      "google_books_id": "HYihEAAAQBAJ"
+    },
+    {
+      "title": "Red at the Bone",
+      "authors": [
+        "Jacqueline Woodson"
+      ],
+      "publisher": "Penguin",
+      "published_date": "2020-09-01",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 226,
+      "language": "en",
+      "isbn_10": "0525535284",
+      "isbn_13": "9780525535287",
+      "google_books_id": "b5QFEAAAQBAJ"
+    },
+    {
+      "title": "Mercy",
+      "authors": [
+        "Joan Silber"
+      ],
+      "publisher": "Catapult",
+      "published_date": "2025-09-02",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 258,
+      "language": "en",
+      "isbn_10": "1640097074",
+      "isbn_13": "9781640097070",
+      "google_books_id": "cV5CEQAAQBAJ"
+    },
+    {
+      "title": "Giovanni's Room (Deluxe Edition)",
+      "authors": [
+        "James Baldwin"
+      ],
+      "publisher": "Vintage",
+      "published_date": "2024-06-18",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 193,
+      "language": "en",
+      "isbn_10": "0593688961",
+      "isbn_13": "9780593688960",
+      "google_books_id": "L8rxEAAAQBAJ"
+    },
+    {
+      "title": "Lost Journal of Alejandro Pardo",
+      "authors": [
+        "Budjette Tan",
+        "David Hontiveros"
+      ],
+      "publisher": "Tuttle Publishing",
+      "published_date": "2022-10-18",
+      "year": 2022,
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "page_count": 137,
+      "language": "en",
+      "isbn_10": "1462923429",
+      "isbn_13": "9781462923427",
+      "google_books_id": "q_dwEAAAQBAJ"
+    },
+    {
+      "title": "A Victorious Life",
+      "authors": [
+        "George Rothacker"
+      ],
+      "publisher": "Outskirts Press",
+      "published_date": "2025-08-08",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 430,
+      "language": "en",
+      "isbn_10": "1977284973",
+      "isbn_13": "9781977284976",
+      "google_books_id": "qgp5EQAAQBAJ"
+    },
+    {
+      "title": "The Best Short Stories 2021",
+      "authors": [
+        "Chimamanda Ngozi Adichie"
+      ],
+      "publisher": "Anchor",
+      "published_date": "2021-09-14",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 401,
+      "language": "en",
+      "isbn_10": "0593311264",
+      "isbn_13": "9780593311264",
+      "google_books_id": "SrwjEAAAQBAJ"
+    },
+    {
+      "title": "Walkin' the Dog",
+      "authors": [
+        "Chris Lynch"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2025-03-25",
+      "year": 2025,
+      "categories": [
+        "Juvenile Fiction"
+      ],
+      "page_count": 240,
+      "language": "en",
+      "isbn_10": "148145921X",
+      "isbn_13": "9781481459211",
+      "google_books_id": "9-1JEQAAQBAJ"
+    },
+    {
+      "title": "Secrets of Happiness",
+      "authors": [
+        "Joan Silber"
+      ],
+      "publisher": "Catapult",
+      "published_date": "2021-05-04",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 171,
+      "language": "en",
+      "isbn_10": "1640094466",
+      "isbn_13": "9781640094468",
+      "google_books_id": "SaUQEAAAQBAJ"
+    },
+    {
+      "title": "Black Bestiary",
+      "authors": [
+        "Budjette Tan",
+        "David Hontiveros"
+      ],
+      "publisher": "Tuttle Publishing",
+      "published_date": "2022-10-18",
+      "year": 2022,
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "page_count": 137,
+      "language": "en",
+      "isbn_10": "1462923259",
+      "isbn_13": "9781462923250",
+      "google_books_id": "kfdwEAAAQBAJ"
+    },
+    {
+      "title": "Norman Mailer: The Naked and the Dead & Selected Letters 1945-1946 (LOA #364)",
+      "authors": [
+        "Norman Mailer"
+      ],
+      "publisher": "Library of America",
+      "published_date": "2023-01-10",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 813,
+      "language": "en",
+      "isbn_10": "1598537598",
+      "isbn_13": "9781598537598",
+      "google_books_id": "ap-WEAAAQBAJ"
+    },
+    {
+      "title": "The Penguin Book of the Modern American Short Story",
+      "authors": [
+        "John Freeman"
+      ],
+      "publisher": "Penguin",
+      "published_date": "2022-05-03",
+      "year": 2022,
+      "categories": [
+        "Literary Collections"
+      ],
+      "page_count": 497,
+      "language": "en",
+      "isbn_10": "1984877828",
+      "isbn_13": "9781984877826",
+      "google_books_id": "YLZPEAAAQBAJ"
+    },
+    {
+      "title": "Freeman's: Animals",
+      "authors": [
+        "John Freeman"
+      ],
+      "publisher": "Grove Press",
+      "published_date": "2022-10-11",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 247,
+      "language": "en",
+      "isbn_10": "0802160131",
+      "isbn_13": "9780802160133",
+      "google_books_id": "7NeSEAAAQBAJ"
+    },
+    {
+      "title": "The Paris Review Book",
+      "authors": [
+        "The Paris Review"
+      ],
+      "publisher": "Macmillan + ORM",
+      "published_date": "2025-08-22",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 932,
+      "language": "en",
+      "isbn_10": "0312710186",
+      "isbn_13": "9780312710187",
+      "google_books_id": "OI94FekqIMoC"
+    },
+    {
+      "title": "Babysitter",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "publisher": "Vintage",
+      "published_date": "2022-08-23",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 449,
+      "language": "en",
+      "isbn_10": "0593535189",
+      "isbn_13": "9780593535189",
+      "google_books_id": "aXdQEAAAQBAJ"
+    },
+    {
+      "title": "The Anatomy Lesson",
+      "authors": [
+        "Philip Roth"
+      ],
+      "publisher": "Vintage",
+      "published_date": "2022-09-21",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 305,
+      "language": "en",
+      "isbn_10": "0593684966",
+      "isbn_13": "9780593684962",
+      "google_books_id": "k1d-EAAAQBAJ"
+    },
+    {
+      "title": "Deception",
+      "authors": [
+        "Philip Roth"
+      ],
+      "publisher": "Vintage",
+      "published_date": "2022-09-21",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 210,
+      "language": "en",
+      "isbn_10": "0593685040",
+      "isbn_13": "9780593685044",
+      "google_books_id": "mVd-EAAAQBAJ"
+    },
+    {
+      "title": "Toni Morrison",
+      "authors": [
+        "Linda Wagner-Martin"
+      ],
+      "publisher": "Springer Nature",
+      "published_date": "2022-02-08",
+      "year": 2022,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "page_count": 254,
+      "language": "en",
+      "isbn_10": "3030885909",
+      "isbn_13": "9783030885908",
+      "google_books_id": "9L1dEAAAQBAJ"
+    },
+    {
+      "title": "Great Short Books",
+      "authors": [
+        "Kenneth C. Davis"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2023-09-19",
+      "year": 2023,
+      "categories": [
+        "History"
+      ],
+      "page_count": 448,
+      "language": "en",
+      "isbn_10": "1982180056",
+      "isbn_13": "9781982180058",
+      "google_books_id": "olDSEAAAQBAJ"
+    },
+    {
+      "title": "Sing the Truth",
+      "authors": [
+        "Laura Pegram"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2025-05-13",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 273,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798893310344",
+      "google_books_id": "m_krEQAAQBAJ"
+    },
+    {
+      "title": "Nicked",
+      "authors": [
+        "M. T. Anderson"
+      ],
+      "publisher": "Vintage",
+      "published_date": "2024-07-23",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 241,
+      "language": "en",
+      "isbn_10": "0593701615",
+      "isbn_13": "9780593701614",
+      "google_books_id": "q57eEAAAQBAJ"
+    },
+    {
+      "title": "James Baldwin 3-Book Box Set",
+      "authors": [
+        "James Baldwin"
+      ],
+      "publisher": "Vintage",
+      "published_date": "2024-06-18",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 552,
+      "language": "en",
+      "isbn_10": "0593689712",
+      "isbn_13": "9780593689714",
+      "google_books_id": "_fT-EAAAQBAJ"
+    },
+    {
+      "title": "Post-9/11 Historical Fiction and Alternate History Fiction",
+      "authors": [
+        "Pei-chen Liao"
+      ],
+      "publisher": "Springer Nature",
+      "published_date": "2020-09-19",
+      "year": 2020,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "page_count": 207,
+      "language": "en",
+      "isbn_10": "3030524922",
+      "isbn_13": "9783030524920",
+      "google_books_id": "ABj-DwAAQBAJ"
+    },
+    {
+      "title": "Tales of Two Planets",
+      "authors": [
+        "John Freeman"
+      ],
+      "publisher": "Penguin",
+      "published_date": "2020-08-04",
+      "year": 2020,
+      "categories": [
+        "Literary Collections"
+      ],
+      "page_count": 322,
+      "language": "en",
+      "isbn_10": "0525505717",
+      "isbn_13": "9780525505716",
+      "google_books_id": "eiikDwAAQBAJ"
+    },
+    {
+      "title": "Mental Floss: The Curious Reader",
+      "authors": [
+        "Erin McCarthy",
+        "Mental Floss"
+      ],
+      "publisher": "Weldon Owen International",
+      "published_date": "2021-05-25",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 290,
+      "language": "en",
+      "isbn_10": "1681888076",
+      "isbn_13": "9781681888071",
+      "google_books_id": "cto6EAAAQBAJ"
+    },
+    {
+      "title": "Seven Empty Houses",
+      "authors": [
+        "Samanta Schweblin"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2022-10-18",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 96,
+      "language": "en",
+      "isbn_10": "0861544331",
+      "isbn_13": "9780861544332",
+      "google_books_id": "W65nEAAAQBAJ"
+    },
+    {
+      "title": "Tokyo Ueno Station (National Book Award Winner)",
+      "authors": [
+        "Yu Miri"
+      ],
+      "publisher": "Penguin",
+      "published_date": "2020-06-23",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 194,
+      "language": "en",
+      "isbn_10": "0593187539",
+      "isbn_13": "9780593187531",
+      "google_books_id": "-FS9DwAAQBAJ"
+    },
+    {
+      "title": "Hell of a Book: National Book Award Winner",
+      "authors": [
+        "Jason Mott"
+      ],
+      "publisher": "Penguin",
+      "published_date": "2021-06-29",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 337,
+      "language": "en",
+      "isbn_10": "059333096X",
+      "isbn_13": "9780593330968",
+      "google_books_id": "iNgwEAAAQBAJ"
+    },
+    {
+      "title": "Hell of a Book",
+      "authors": [
+        "Jason Mott"
+      ],
+      "publisher": "Hachette UK",
+      "published_date": "2021-06-29",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 270,
+      "language": "en",
+      "isbn_10": "1398704679",
+      "isbn_13": "9781398704671",
+      "google_books_id": "YJUTEAAAQBAJ"
+    },
+    {
+      "title": "Home",
+      "authors": [
+        "Marilynne Robinson"
+      ],
+      "publisher": "N/A",
+      "published_date": "2022-11-09",
+      "year": 2022,
+      "categories": [],
+      "page_count": 0,
+      "language": "zh-CN",
+      "isbn_10": "6263143096",
+      "isbn_13": "9786263143098",
+      "google_books_id": "2aWczwEACAAJ"
+    },
+    {
+      "title": "Catalina",
+      "authors": [
+        "Karla Cornejo Villavicencio"
+      ],
+      "publisher": "Random House",
+      "published_date": "2025-08-07",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 168,
+      "language": "en",
+      "isbn_10": "1804956732",
+      "isbn_13": "9781804956731",
+      "google_books_id": "Fl1CEQAAQBAJ"
+    },
+    {
+      "title": "Last Night at the Telegraph Club",
+      "authors": [
+        "Malinda Lo"
+      ],
+      "publisher": "Hodder Paperbacks",
+      "published_date": "2021-03-18",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1529366585",
+      "isbn_13": "9781529366587",
+      "google_books_id": "qmTyzQEACAAJ"
+    },
+    {
+      "title": "Red at the Bone",
+      "authors": [
+        "Jacqueline Woodson"
+      ],
+      "publisher": "Weidenfeld & Nicolson",
+      "published_date": "2020-01-23",
+      "year": 2020,
+      "categories": [
+        "African American families"
+      ],
+      "page_count": 208,
+      "language": "en",
+      "isbn_10": "1474616437",
+      "isbn_13": "9781474616430",
+      "google_books_id": "pzqXyQEACAAJ"
+    },
+    {
+      "title": "Interior Chinatown",
+      "authors": [
+        "Charles Yu"
+      ],
+      "publisher": "N/A",
+      "published_date": "2020-11",
+      "year": 2020,
+      "categories": [],
+      "page_count": 288,
+      "language": "en",
+      "isbn_10": "178770257X",
+      "isbn_13": "9781787702578",
+      "google_books_id": "h3S-zQEACAAJ"
+    },
+    {
+      "title": "Jack (Oprah's Book Club)",
+      "authors": [
+        "Marilynne Robinson"
+      ],
+      "publisher": "McClelland & Stewart",
+      "published_date": "2020-09-29",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "0771006039",
+      "isbn_13": "9780771006036",
+      "google_books_id": "ioqTEAAAQBAJ"
+    },
+    {
+      "title": "A Feather on the Breath of God",
+      "authors": [
+        "Sigrid Nunez"
+      ],
+      "publisher": "Hachette UK",
+      "published_date": "2021-02-04",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 175,
+      "language": "en",
+      "isbn_10": "0349014248",
+      "isbn_13": "9780349014241",
+      "google_books_id": "xd_YDwAAQBAJ"
+    },
+    {
+      "title": "King and the Dragonflies",
+      "authors": [
+        "Kacen Callender"
+      ],
+      "publisher": "N/A",
+      "published_date": "2023-05-24",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "ko",
+      "isbn_10": null,
+      "isbn_13": "9791169811385",
+      "google_books_id": "jLvK0AEACAAJ"
+    },
+    {
+      "title": "Great House",
+      "authors": [
+        "Nicole Krauss"
+      ],
+      "publisher": "W. W. Norton & Company",
+      "published_date": "2025-04-25",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 304,
+      "language": "en",
+      "isbn_10": "0393080366",
+      "isbn_13": "9780393080360",
+      "google_books_id": "N-Kfa0UZcGUC"
+    },
+    {
+      "title": "My Friends",
+      "authors": [
+        "Hisham Matar"
+      ],
+      "publisher": "Random House",
+      "published_date": "2024-01-09",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "0812994841",
+      "isbn_13": "9780812994841",
+      "google_books_id": "lXbCEAAAQBAJ"
+    },
+    {
+      "title": "Dwellers: A Novel",
+      "authors": [
+        "Eliza Victoria"
+      ],
+      "publisher": "N/A",
+      "published_date": "2025-09-02",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "080485923X",
+      "isbn_13": "9780804859233",
+      "google_books_id": "va4N0QEACAAJ"
+    },
+    {
+      "title": "The Wapshot Chronicle",
+      "authors": [
+        "John Cheever"
+      ],
+      "publisher": "Vintage",
+      "published_date": "2021-02-02",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 401,
+      "language": "en",
+      "isbn_10": "0593312309",
+      "isbn_13": "9780593312308",
+      "google_books_id": "JsjdDwAAQBAJ"
+    },
+    {
+      "title": "A Children's Bible",
+      "authors": [
+        "Lydia Millet"
+      ],
+      "publisher": "National Geographic Books",
+      "published_date": "2020-05-12",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1324005033",
+      "isbn_13": "9781324005032",
+      "google_books_id": "3GmPEAAAQBAJ"
+    },
+    {
+      "title": "Nobody Gets Out Alive",
+      "authors": [
+        "Lee Newman",
+        "Leigh Newman"
+      ],
+      "publisher": "Hachette UK",
+      "published_date": "2022-06-23",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 307,
+      "language": "en",
+      "isbn_10": "1529376270",
+      "isbn_13": "9781529376272",
+      "google_books_id": "oldDEAAAQBAJ"
+    },
+    {
+      "title": "Moon Witch, Spider King",
+      "authors": [
+        "Marlon James"
+      ],
+      "publisher": "Bond Street Books",
+      "published_date": "2022-02-15",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "0385690355",
+      "isbn_13": "9780385690355",
+      "google_books_id": "QlaTEAAAQBAJ"
+    },
+    {
+      "title": "Vigil Harbor",
+      "authors": [
+        "Julia Glass"
+      ],
+      "publisher": "Pantheon",
+      "published_date": "2022-05-03",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 417,
+      "language": "en",
+      "isbn_10": "1101870389",
+      "isbn_13": "9781101870389",
+      "google_books_id": "LfJnEAAAQBAJ"
+    },
+    {
+      "title": "The Great Offshore Grounds",
+      "authors": [
+        "Vanessa Veselka"
+      ],
+      "publisher": "Knopf",
+      "published_date": "2020",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 449,
+      "language": "en",
+      "isbn_10": "0525658076",
+      "isbn_13": "9780525658078",
+      "google_books_id": "KYXzDwAAQBAJ"
+    },
+    {
+      "title": "The Souvenir Museum",
+      "authors": [
+        "Elizabeth McCracken"
+      ],
+      "publisher": "HarperCollins",
+      "published_date": "2024-03-19",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 223,
+      "language": "en",
+      "isbn_10": "0062971263",
+      "isbn_13": "9780062971265",
+      "google_books_id": "t-XwDwAAQBAJ"
+    },
+    {
+      "title": "Woman of Light",
+      "authors": [
+        "Kali Fajardo-Anstine"
+      ],
+      "publisher": "One World",
+      "published_date": "2022-06-07",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 353,
+      "language": "en",
+      "isbn_10": "0525511342",
+      "isbn_13": "9780525511342",
+      "google_books_id": "5LhBEAAAQBAJ"
+    },
+    {
+      "title": "Flashlight",
+      "authors": [
+        "Susan Choi"
+      ],
+      "publisher": "Farrar, Straus and Giroux",
+      "published_date": "2025-06-03",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 411,
+      "language": "en",
+      "isbn_10": "0374616388",
+      "isbn_13": "9780374616380",
+      "google_books_id": "ur4nEQAAQBAJ"
+    },
+    {
+      "title": "Deacon King Kong",
+      "authors": [
+        "James McBride"
+      ],
+      "publisher": "National Geographic Books",
+      "published_date": "2021-02-02",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "0735216738",
+      "isbn_13": "9780735216730",
+      "google_books_id": "zLyOEAAAQBAJ"
+    },
+    {
+      "title": "Winter in Sokcho",
+      "authors": [
+        "Elisa Shua Dusapin"
+      ],
+      "publisher": "Scribe Publications",
+      "published_date": "2021-06-04",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 87,
+      "language": "en",
+      "isbn_10": "1922586110",
+      "isbn_13": "9781922586117",
+      "google_books_id": "A2klEAAAQBAJ"
+    },
+    {
+      "title": "Black Leopard, Red Wolf",
+      "authors": [
+        "Marlon James"
+      ],
+      "publisher": "National Geographic Books",
+      "published_date": "2020-02-04",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "0385690347",
+      "isbn_13": "9780385690348",
+      "google_books_id": "mkiNEAAAQBAJ"
+    },
+    {
+      "title": "The Prairie Schooner Book Prize",
+      "authors": [
+        "James Engelhardt",
+        "Marianne Kunkel",
+        "Kwame Dawes"
+      ],
+      "publisher": "U of Nebraska Press",
+      "published_date": "2020-04-01",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 293,
+      "language": "en",
+      "isbn_10": "1496211286",
+      "isbn_13": "9781496211286",
+      "google_books_id": "koDaDwAAQBAJ"
+    },
+    {
+      "title": "Historical Fiction Now",
+      "authors": [],
+      "publisher": "Oxford University Press",
+      "published_date": "2023-07-18",
+      "year": 2023,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "page_count": 295,
+      "language": "en",
+      "isbn_10": "0198877056",
+      "isbn_13": "9780198877059",
+      "google_books_id": "9FHNEAAAQBAJ"
+    },
+    {
+      "title": "Crosshairs",
+      "authors": [
+        "Catherine Hernandez"
+      ],
+      "publisher": "Atria Books",
+      "published_date": "2020-12-08",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 272,
+      "language": "en",
+      "isbn_10": "1982146028",
+      "isbn_13": "9781982146023",
+      "google_books_id": "tBgIEAAAQBAJ"
+    },
+    {
+      "title": "The MX Book of New Sherlock Holmes Stories - Part VI",
+      "authors": [
+        "David Marcum"
+      ],
+      "publisher": "Andrews UK Limited",
+      "published_date": "2021-01-18",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 851,
+      "language": "en",
+      "isbn_10": "1787050890",
+      "isbn_13": "9781787050891",
+      "google_books_id": "ZtEnDwAAQBAJ"
+    },
+    {
+      "title": "The Guests",
+      "authors": [
+        "Agnes Ravatn"
+      ],
+      "publisher": "Orenda Books",
+      "published_date": "2024-01-18",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 169,
+      "language": "en",
+      "isbn_10": "1916788009",
+      "isbn_13": "9781916788008",
+      "google_books_id": "gE3oEAAAQBAJ"
+    },
+    {
+      "title": "Eros at Nadir",
+      "authors": [
+        "Mike Resnick"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2025-01-21",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 172,
+      "language": "en",
+      "isbn_10": "1504099354",
+      "isbn_13": "9781504099356",
+      "google_books_id": "yLQwEQAAQBAJ"
+    },
+    {
+      "title": "Rock Candy Boxed Set 2: Books 4-6",
+      "authors": [
+        "Virna DePaul"
+      ],
+      "publisher": "Books That Rock",
+      "published_date": "2020-07-21",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 704,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "dl_yDwAAQBAJ"
+    },
+    {
+      "title": "Empty your bags. Unlock your potential",
+      "authors": [
+        "Ajay Rawat"
+      ],
+      "publisher": "Ukiyoto Publishing",
+      "published_date": "2023-11-29",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 337,
+      "language": "en",
+      "isbn_10": "9360161225",
+      "isbn_13": "9789360161224",
+      "google_books_id": "vgvmEAAAQBAJ"
+    },
+    {
+      "title": "Blade Runner: Origins Volume 3: Burning",
+      "authors": [
+        "K. Perkins",
+        "Mellow Brown"
+      ],
+      "publisher": "Titan Comics",
+      "published_date": "2022-09-14",
+      "year": 2022,
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "page_count": 116,
+      "language": "en",
+      "isbn_10": "1787739082",
+      "isbn_13": "9781787739086",
+      "google_books_id": "VXR8EAAAQBAJ"
+    },
+    {
+      "title": "A Little Too Familiar",
+      "authors": [
+        "Lish McBride"
+      ],
+      "publisher": "Devo-Lish, LLC",
+      "published_date": "2022-05-17",
+      "year": 2022,
+      "categories": [
+        "Family & Relationships"
+      ],
+      "page_count": 410,
+      "language": "en",
+      "isbn_10": "0998403237",
+      "isbn_13": "9780998403236",
+      "google_books_id": "Fe5vEAAAQBAJ"
+    },
+    {
+      "title": "The Last Thing to Burn",
+      "authors": [
+        "Will Dean"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2022-01-18",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 256,
+      "language": "en",
+      "isbn_10": "1982156473",
+      "isbn_13": "9781982156473",
+      "google_books_id": "xNlVEAAAQBAJ"
+    },
+    {
+      "title": "Invincible Hugh Jackman: The Biography",
+      "authors": [
+        "Avery Lee",
+        "Daniel D. Lee"
+      ],
+      "publisher": "AGI Publishing",
+      "published_date": "2024-08-09",
+      "year": 2024,
+      "categories": [
+        "Biography & Autobiography"
+      ],
+      "page_count": 220,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "9eQYEQAAQBAJ"
+    },
+    {
+      "title": "The Evolution of the Western",
+      "authors": [
+        "Martin Kich"
+      ],
+      "publisher": "Bloomsbury Publishing USA",
+      "published_date": "2024-09-05",
+      "year": 2024,
+      "categories": [
+        "Social Science"
+      ],
+      "page_count": 566,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798765110195",
+      "google_books_id": "BUEdEQAAQBAJ"
+    },
+    {
+      "title": "From a Certain Point of View: The Empire Strikes Back (Star Wars)",
+      "authors": [
+        "Seth Dickinson",
+        "Hank Green",
+        "R. F. Kuang",
+        "Martha Wells",
+        "Kiersten White"
+      ],
+      "publisher": "Random House Worlds",
+      "published_date": "2020-11-10",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 600,
+      "language": "en",
+      "isbn_10": "0593157753",
+      "isbn_13": "9780593157756",
+      "google_books_id": "sbzpDwAAQBAJ"
+    },
+    {
+      "title": "House on Endless Waters",
+      "authors": [
+        "Emuna Elon"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2020-01-07",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 336,
+      "language": "en",
+      "isbn_10": "1982130245",
+      "isbn_13": "9781982130244",
+      "google_books_id": "v5yeDwAAQBAJ"
+    },
+    {
+      "title": "Succubi",
+      "authors": [
+        "Edward Lee"
+      ],
+      "publisher": "Crossroad Press",
+      "published_date": "2022-10-11",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 329,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "MoGUEAAAQBAJ"
+    },
+    {
+      "title": "Frankenstein Lives",
+      "authors": [
+        "Paul Ruditis"
+      ],
+      "publisher": "Castle Books",
+      "published_date": "2025-08-05",
+      "year": 2025,
+      "categories": [
+        "Performing Arts"
+      ],
+      "page_count": 183,
+      "language": "en",
+      "isbn_10": "076039685X",
+      "isbn_13": "9780760396858",
+      "google_books_id": "Rm41EQAAQBAJ"
+    },
+    {
+      "title": "Post-Horror",
+      "authors": [
+        "David Church"
+      ],
+      "publisher": "Edinburgh University Press",
+      "published_date": "2021-02-01",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 281,
+      "language": "en",
+      "isbn_10": "1474475906",
+      "isbn_13": "9781474475907",
+      "google_books_id": "CPM8EAAAQBAJ"
+    },
+    {
+      "title": "The Reluctant Bride: The Complete Series Books 1-4",
+      "authors": [
+        "Cynthia Savage"
+      ],
+      "publisher": "Savage Quill Publishing",
+      "published_date": "2025-08-09",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1148,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "Ka14EQAAQBAJ"
+    },
+    {
+      "title": "Those Who Perish",
+      "authors": [
+        "Emma Viskic"
+      ],
+      "publisher": "Echo",
+      "published_date": "2022-03-01",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 299,
+      "language": "en",
+      "isbn_10": "176068726X",
+      "isbn_13": "9781760687267",
+      "google_books_id": "JhZdEAAAQBAJ"
+    },
+    {
+      "title": "Halo: Point of Light",
+      "authors": [
+        "Kelly Gay"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2021-03-02",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 336,
+      "language": "en",
+      "isbn_10": "1982147873",
+      "isbn_13": "9781982147877",
+      "google_books_id": "bUX5DwAAQBAJ"
+    },
+    {
+      "title": "Gilmore Girls: The Official Cookbook",
+      "authors": [
+        "Elena Craig",
+        "Kristen Mulrooney"
+      ],
+      "publisher": "Simon and Schuster",
+      "published_date": "2022-05-10",
+      "year": 2022,
+      "categories": [
+        "Cooking"
+      ],
+      "page_count": 176,
+      "language": "en",
+      "isbn_10": "1647225191",
+      "isbn_13": "9781647225193",
+      "google_books_id": "j71mEAAAQBAJ"
+    },
+    {
+      "title": "A Critical Companion to Neil Gaiman's \"Neverwhere\"",
+      "authors": [
+        "Jeffrey Andrew Weinstock"
+      ],
+      "publisher": "Springer Nature",
+      "published_date": "2022-05-31",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 104,
+      "language": "en",
+      "isbn_10": "3030964582",
+      "isbn_13": "9783030964580",
+      "google_books_id": "04NyEAAAQBAJ"
+    },
+    {
+      "title": "The Best Science Fiction of the Year: Volume 8",
+      "authors": [
+        "Naomi Kritzer",
+        "Grace Chan",
+        "S.L. Huang",
+        "Ai Jiang",
+        "Isabel J. Kim",
+        "A.T. Greenblatt",
+        "Marie Vibbert",
+        "M. Bennardo",
+        "Julianna Baggott",
+        "Tobias S. Buckell",
+        "Premee Mohamed",
+        "Ray Nayler",
+        "Suzanne Palmer",
+        "Sarah Gailey",
+        "Nian Yu",
+        "Rich Larson",
+        "R.S.A. Garcia",
+        "Alastair Reynolds",
+        "Wole Talabi",
+        "Congyun \"Mu Ming\" Gu",
+        "Greg Egan",
+        "J.C. Hsyu",
+        "Leonard Richardson",
+        "Yoon Ha Lee",
+        "Hannah Yang",
+        "Annalee Newitz",
+        "Chinelo Onwualu",
+        "Meg Elison",
+        "Jessica Reisman"
+      ],
+      "publisher": "JABberwocky Literary Agency, Incorporated",
+      "published_date": "2024-09-10",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 873,
+      "language": "en",
+      "isbn_10": "1625677049",
+      "isbn_13": "9781625677044",
+      "google_books_id": "QdBmEQAAQBAJ"
+    },
+    {
+      "title": "Dark Souls: The Complete Collection",
+      "authors": [
+        "George Mann",
+        "Dan Watters",
+        "Cassandra Khaw",
+        "Tom Williams",
+        "Tauriq Moosa",
+        "Michael Walsh",
+        "Atom Morwill",
+        "Ryan O'Sullivan"
+      ],
+      "publisher": "Titan Comics",
+      "published_date": "2021-10-27",
+      "year": 2021,
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "page_count": 388,
+      "language": "en",
+      "isbn_10": "1787737799",
+      "isbn_13": "9781787737792",
+      "google_books_id": "KtFBEAAAQBAJ"
+    },
+    {
+      "title": "Critical Perspectives on Resistance in 21st-Century British Literature",
+      "authors": [
+        "Nilay Erdem Ayyıldız"
+      ],
+      "publisher": "Cambridge Scholars Publishing",
+      "published_date": "2024-04-03",
+      "year": 2024,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "page_count": 215,
+      "language": "en",
+      "isbn_10": "1036402983",
+      "isbn_13": "9781036402983",
+      "google_books_id": "8dYBEQAAQBAJ"
+    },
+    {
+      "title": "Transnationalism and Genre Hybridity in New British Horror Cinema",
+      "authors": [
+        "Lindsey Decker"
+      ],
+      "publisher": "University of Wales Press",
+      "published_date": "2021-03-01",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 276,
+      "language": "en",
+      "isbn_10": "1786837005",
+      "isbn_13": "9781786837004",
+      "google_books_id": "7FUkEAAAQBAJ"
+    },
+    {
+      "title": "A Masterpiece of World Literature : From Classical to Present Era",
+      "authors": [
+        "Dr. Rishikesh Tewari"
+      ],
+      "publisher": "Crown Publishing",
+      "published_date": "2025-05-14",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 1001,
+      "language": "en",
+      "isbn_10": "9364268288",
+      "isbn_13": "9789364268288",
+      "google_books_id": "2dxeEQAAQBAJ"
+    },
+    {
+      "title": "The Michael Moorcock Library: Elric - Stormbringer",
+      "authors": [
+        "P. Craig Russell"
+      ],
+      "publisher": "Titan Comics",
+      "published_date": "2021-07-21",
+      "year": 2021,
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "page_count": 210,
+      "language": "en",
+      "isbn_10": "1787737497",
+      "isbn_13": "9781787737495",
+      "google_books_id": "R3YqEAAAQBAJ"
+    },
+    {
+      "title": "The Best American Short Stories 2024",
+      "authors": [
+        "Groff, Lauren",
+        "Heidi Pitlor"
+      ],
+      "publisher": "HarperCollins",
+      "published_date": "2024-10-22",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 293,
+      "language": "en",
+      "isbn_10": "006327597X",
+      "isbn_13": "9780063275973",
+      "google_books_id": "zx3xEAAAQBAJ"
+    },
+    {
+      "title": "The Precious Jules",
+      "authors": [
+        "Shawn Nocher"
+      ],
+      "publisher": "Blackstone Publishing",
+      "published_date": "2023-06-27",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798212184830",
+      "google_books_id": "1-SBzwEACAAJ"
+    },
+    {
+      "title": "Lake Effect Days",
+      "authors": [
+        "Philip Sultz"
+      ],
+      "publisher": "National Geographic Books",
+      "published_date": "2020-09-09",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1946053155",
+      "isbn_13": "9781946053152",
+      "google_books_id": "9iyREAAAQBAJ"
+    },
+    {
+      "title": "Acceleration Hours",
+      "authors": [
+        "Jesse Goolsby"
+      ],
+      "publisher": "University of Nevada Press",
+      "published_date": "2020-05-06",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "194890862X",
+      "isbn_13": "9781948908627",
+      "google_books_id": "xzERywEACAAJ"
+    },
+    {
+      "title": "The Book of Mother",
+      "authors": [
+        "Violaine Huisman"
+      ],
+      "publisher": "Virago Press",
+      "published_date": "2021-10-07",
+      "year": 2021,
+      "categories": [],
+      "page_count": 224,
+      "language": "en",
+      "isbn_10": "0349012334",
+      "isbn_13": "9780349012339",
+      "google_books_id": "ToyquwEACAAJ"
+    },
+    {
+      "title": "The Ones Who Don't Say They Love You",
+      "authors": [
+        "Maurice Carlos Ruffin"
+      ],
+      "publisher": "One World",
+      "published_date": "2021-08-17",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 193,
+      "language": "en",
+      "isbn_10": "0593133420",
+      "isbn_13": "9780593133422",
+      "google_books_id": "0n8JEAAAQBAJ"
+    },
+    {
+      "title": "From Scratch",
+      "authors": [
+        "Rachel Goodman"
+      ],
+      "publisher": "N/A",
+      "published_date": "2020-05",
+      "year": 2020,
+      "categories": [],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1734219858",
+      "isbn_13": "9781734219852",
+      "google_books_id": "8IJdzQEACAAJ"
+    },
+    {
+      "title": "Start Without Me",
+      "authors": [
+        "Joshua Max Feldman"
+      ],
+      "publisher": "HarperCollins",
+      "published_date": "2024-01-17",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 269,
+      "language": "en",
+      "isbn_10": "0062668749",
+      "isbn_13": "9780062668745",
+      "google_books_id": "s773DQAAQBAJ"
+    },
+    {
+      "title": "Dr. Hill's Poet",
+      "authors": [
+        "Jeffrey Ross"
+      ],
+      "publisher": "Rogue Phoenix Press",
+      "published_date": "2021-03-15",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 56,
+      "language": "en",
+      "isbn_10": "1624206158",
+      "isbn_13": "9781624206153",
+      "google_books_id": "7YkfEAAAQBAJ"
+    },
+    {
+      "title": "The Memory Librarian",
+      "authors": [
+        "Janelle Monáe"
+      ],
+      "publisher": "HarperCollins",
+      "published_date": "2022-04-19",
+      "year": 2022,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 369,
+      "language": "en",
+      "isbn_10": "0063070898",
+      "isbn_13": "9780063070899",
+      "google_books_id": "4xQ6EAAAQBAJ"
+    },
+    {
+      "title": "Othello Illustrated",
+      "authors": [
+        "William Shakespeare"
+      ],
+      "publisher": "N/A",
+      "published_date": "2020-10-21",
+      "year": 2020,
+      "categories": [],
+      "page_count": 240,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798550789612",
+      "google_books_id": "2LH_zQEACAAJ"
+    },
+    {
+      "title": "A Resolution at Midnight",
+      "authors": [
+        "Shelley Noble"
+      ],
+      "publisher": "Forge Books",
+      "published_date": "2020-10-13",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 308,
+      "language": "en",
+      "isbn_10": "125075027X",
+      "isbn_13": "9781250750273",
+      "google_books_id": "wlTEDwAAQBAJ"
+    },
+    {
+      "title": "Why I Don't Write",
+      "authors": [
+        "Susan Minot"
+      ],
+      "publisher": "National Geographic Books",
+      "published_date": "2021-06-15",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1984899872",
+      "isbn_13": "9781984899873",
+      "google_books_id": "ZkSREAAAQBAJ"
+    },
+    {
+      "title": "Out of Time",
+      "authors": [
+        "David Klass"
+      ],
+      "publisher": "Michael Joseph",
+      "published_date": "2020-07-09",
+      "year": 2020,
+      "categories": [],
+      "page_count": 384,
+      "language": "en",
+      "isbn_10": "0241456223",
+      "isbn_13": "9780241456224",
+      "google_books_id": "BeY5zQEACAAJ"
+    },
+    {
+      "title": "Unearth Volume 2",
+      "authors": [
+        "Cullen Bunn"
+      ],
+      "publisher": "N/A",
+      "published_date": "2021-05-11",
+      "year": 2021,
+      "categories": [],
+      "page_count": 136,
+      "language": "en",
+      "isbn_10": "1534316930",
+      "isbn_13": "9781534316935",
+      "google_books_id": "IoFnzQEACAAJ"
+    },
+    {
+      "title": "Zix Zexy Ztories",
+      "authors": [
+        "Curt Leviant"
+      ],
+      "publisher": "Open Road Media",
+      "published_date": "2023-02-07",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 155,
+      "language": "en",
+      "isbn_10": "1504080505",
+      "isbn_13": "9781504080507",
+      "google_books_id": "J_yiEAAAQBAJ"
+    },
+    {
+      "title": "One of Us Knows",
+      "authors": [
+        "Alyssa Cole"
+      ],
+      "publisher": "Harper Large Print",
+      "published_date": "2024-04-16",
+      "year": 2024,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "0063267411",
+      "isbn_13": "9780063267411",
+      "google_books_id": "kkTgzgEACAAJ"
+    },
+    {
+      "title": "Interview with a Hitman Screenplay",
+      "authors": [
+        "Perry Bhandal"
+      ],
+      "publisher": "N/A",
+      "published_date": "2020-05-04",
+      "year": 2020,
+      "categories": [],
+      "page_count": 242,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": "9798642929469",
+      "google_books_id": "5pGJzQEACAAJ"
+    },
+    {
+      "title": "A Cerebral Offer",
+      "authors": [
+        "Ken Janjigian"
+      ],
+      "publisher": "N/A",
+      "published_date": "2020-11-20",
+      "year": 2020,
+      "categories": [],
+      "page_count": 336,
+      "language": "en",
+      "isbn_10": "1604892587",
+      "isbn_13": "9781604892581",
+      "google_books_id": "OsmYzQEACAAJ"
+    },
+    {
+      "title": "The Missing Hours",
+      "authors": [
+        "Julia Dahl"
+      ],
+      "publisher": "Minotaur Books",
+      "published_date": "2023-02-28",
+      "year": 2023,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 0,
+      "language": "en",
+      "isbn_10": "1250083745",
+      "isbn_13": "9781250083746",
+      "google_books_id": "bHFpEAAAQBAJ"
+    },
+    {
+      "title": "Fifty Notable Years",
+      "authors": [
+        "John Adams"
+      ],
+      "publisher": "Litres",
+      "published_date": "2021-12-02",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 350,
+      "language": "en",
+      "isbn_10": "5040653794",
+      "isbn_13": "9785040653799",
+      "google_books_id": "Z8dSEAAAQBAJ"
+    },
+    {
+      "title": "The Cream of Leicestershire. Eleven Seasons' Skimmings, Notable Runs and Incidents of the Chase, Selected and Republished from \"The Field\"",
+      "authors": [
+        "Edward Pennell Elmhirst"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-09-21",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 486,
+      "language": "en",
+      "isbn_10": "3563937141",
+      "isbn_13": "9783563937143",
+      "google_books_id": "2lqIEQAAQBAJ"
+    },
+    {
+      "title": "The Belgian Front and Its Notable Features",
+      "authors": [
+        "Willy Breton"
+      ],
+      "publisher": "Good Press",
+      "published_date": "2021-05-19",
+      "year": 2021,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 52,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "yvfXDwAAQBAJ"
+    },
+    {
+      "title": "Notable Thoughts",
+      "authors": [
+        "John O'Loughlin"
+      ],
+      "publisher": "John O'Loughlin (of Centretruths Digital Media)",
+      "published_date": "2022-08-25",
+      "year": 2022,
+      "categories": [
+        "Philosophy"
+      ],
+      "page_count": 93,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "LTWFEAAAQBAJ"
+    },
+    {
+      "title": "Notable Voyagers",
+      "authors": [
+        "W.H.G. Frith, Henry Kingston"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2020-07-30",
+      "year": 2020,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 454,
+      "language": "en",
+      "isbn_10": "3752371617",
+      "isbn_13": "9783752371611",
+      "google_books_id": "mJ30DwAAQBAJ"
+    },
+    {
+      "title": "A Different Kind of Tension",
+      "authors": [
+        "Jonathan Lethem"
+      ],
+      "publisher": "HarperCollins",
+      "published_date": "2025-09-23",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 454,
+      "language": "en",
+      "isbn_10": "0063388855",
+      "isbn_13": "9780063388857",
+      "google_books_id": "IC46EQAAQBAJ"
+    },
+    {
+      "title": "A History of the Criminal Law of England",
+      "authors": [
+        "James Fitzjames Stephen"
+      ],
+      "publisher": "BoD – Books on Demand",
+      "published_date": "2025-02-15",
+      "year": 2025,
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 520,
+      "language": "en",
+      "isbn_10": null,
+      "isbn_13": null,
+      "google_books_id": "1LVKAQAAIAAJ"
+    }
+  ]
+}

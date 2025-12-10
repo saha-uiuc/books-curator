@@ -4,7 +4,21 @@ subtitle: |
     | **Critical Acclaim vs. Reader Popularity** 
     | Curating an Integrated Dataset of Literary Awards and Book Reception
 author: "Somnath Saha (somnath4@illinois.edu)"
-date: "December 9, 2025"
+date: | 
+    | December 9, 2025
+    | **Github Link - https://github.com/saha-uiuc/books-curator**
+toc: true
+toc-title: "Contents"
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \fancyhead[L]{CS 598 FDC - Fall 2025 - Project Report}
+  - \fancyhead[R]{Somnath Saha (somnath4@illinois.edu)}
+  - \fancyfoot[C]{\thepage}
+  - \renewcommand{\headrulewidth}{0.4pt}
+  - \usepackage{url}
+  - \def\UrlBreaks{\do\/\do-\do_}
 ---
 
 \newpage
@@ -154,7 +168,7 @@ Encountered all major heterogeneity types: encoding (UTF-8 standardization), syn
 
 ## Data Concepts (M7)
 
-Applied BRM (Boundary-Records-Metadata) model explicitly. **Boundaries:** Made clear decisions about temporal scope (2000-2025 for awards, 2020-2025 for APIs), geographic scope (English-language fiction), genre boundaries (literary fiction emphasis), and quality thresholds (ISBN coverage, fuzzy match 0.85). **Records:** Structured book entities represent distinct literary works (not editions); entity resolution addresses "what is a book?" philosophically. **Metadata:** Implemented at collection-level (source provenance, fetch dates), record-level (`sources[]` array), and field-level (data dictionary semantics). Recognized that "data are representations created for purposes"—this schema serves specific research questions rather than universal representation.
+Applied **FRBR (Functional Requirements for Bibliographic Records)** model to address "what is a book?" This project operates at the **Work level**—treating each title as a single entity regardless of edition (hardcover, paperback, ebook). Entity resolution matches different **Manifestations** (ISBNs) to the same underlying Work. Established clear dataset **boundaries**: temporal scope (2000-2025 for awards, 2020-2025 for APIs), geographic scope (English-language fiction), and quality thresholds (fuzzy match 0.85). Recognized that "data are representations created for purposes"—this schema serves specific research questions rather than universal bibliographic description.
 
 ## Metadata and Documentation (M8)
 
@@ -178,7 +192,7 @@ Automated complete workflow via `run_pipeline.sh` master orchestration script wi
 
 ## Data Practices (M13)
 
-Recognized that "data curation is situated social practice shaped by disciplinary norms and human labor." Documented invisible labor (~15 hours manual validation), practiced iterative development (threshold tuning cycles), balanced automation vs. manual intervention (automated fetching + human quality judgments), used pragmatic tool selection (Python/JSON over theoretical optimum), and practiced secondary data reuse (repurposing Wikipedia, APIs for new research question). Reflected that every technical decision embodies interpretive choices—no "neutral" curation exists.
+Recognized that "data curation is situated social practice shaped by disciplinary norms and human labor." Acknowledged invisible labor inherent in curation (manual validation, threshold tuning, quality spot-checks), practiced iterative development (threshold tuning cycles), balanced automation vs. manual intervention (automated fetching + human quality judgments), used pragmatic tool selection (Python/JSON over theoretical optimum), and practiced secondary data reuse (repurposing Wikipedia, APIs for new research question). Reflected that every technical decision embodies interpretive choices—no "neutral" curation exists.
 
 ## Dissemination and Communication (M15)
 
@@ -268,15 +282,21 @@ This project successfully demonstrates end-to-end data curation for a real-world
 ## Standards and Specifications
 
 - ECMA International. (2017). *The JSON Data Interchange Syntax* (ECMA-404, 2nd edition). https://www.ecma-international.org/publications/standards/Ecma-404.htm
+- IFLA Study Group. (1998). *Functional Requirements for Bibliographic Records* (FRBR). International Federation of Library Associations. https://www.ifla.org/publications/functional-requirements-for-bibliographic-records
 - International ISBN Agency. (2017). *ISBN Users' Manual* (7th edition, ISO 2108). https://www.isbn-international.org/
 - W3C. (2024). *Schema.org Vocabulary*. https://schema.org/
 
 ## Data Sources
 
-- Wikipedia. (2025). List of Pulitzer Prize winners for Fiction. Retrieved from https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction
+- Wikipedia. (2025). *Pulitzer Prize for Fiction*. \
+  https://en.wikipedia.org/wiki/Pulitzer\_Prize\_for\_Fiction
+- Wikipedia. (2025). *National Book Award for Fiction*. \
+  https://en.wikipedia.org/wiki/National\_Book\_Award\_for\_Fiction
+- Wikipedia. (2025). *Booker Prize Winners and Nominees*. \
+  https://en.wikipedia.org/wiki/Booker\_Prize
 - Google Books API. (2025). https://developers.google.com/books/
 - Open Library API. (2025). https://openlibrary.org/developers/api
-- The New York Times Books API. (2025). https://developer.nytimes.com/docs/books-product/1/overview
+- NYT Books API. (2025). https://developer.nytimes.com/docs/books-product/1/overview
 
 \newpage
 # Appendix A: Technical Implementation Details
@@ -353,7 +373,7 @@ This project successfully demonstrates end-to-end data curation for a real-world
 - Used when ISBN not available
 - Text normalization: lowercase, remove punctuation, remove articles (a/an/the)
 - Similarity: `difflib.SequenceMatcher.ratio()`
-- Threshold: Both title AND author must be ≥ 0.85 similar
+- Threshold: Both title AND author must be $\geq$ 0.85 similar
 - Records match method and score for provenance
 
 **Key Functions:**
@@ -398,8 +418,8 @@ This project successfully demonstrates end-to-end data curation for a real-world
 | Field | Type | Description | Range | Source |
 |-------|------|-------------|-------|--------|
 | `ratings_average` | float | Average reader rating | 0.0-5.0 | Open Library |
-| `ratings_count` | integer | Number of ratings | ≥ 0 | Open Library |
-| `want_to_read_count` | integer | Users wanting to read | ≥ 0 | Open Library |
+| `ratings_count` | integer | Number of ratings | $\geq$ 0 | Open Library |
+| `want_to_read_count` | integer | Users wanting to read | $\geq$ 0 | Open Library |
 
 ## Commercial Success Fields
 
@@ -602,36 +622,36 @@ docker run -e GOOGLE_BOOKS_API_KEY="..." -e NYT_BOOKS_API_KEY="..." \
 
 ```
 cs598-fdc-literary-awards/
-├── README.md                           # Project overview and setup
-├── LICENSE                             # MIT + CC-BY-4.0 dual license
-├── requirements.txt                    # Python dependencies (pinned versions)
-├── Dockerfile                          # Container specification (includes awards data)
-├── API_KEYS_REFERENCE.md               # API keys reference (documentation only)
-├── run_pipeline.sh                     # Master orchestration script
-├── run_scrapers.py                     # Scraper orchestration script
-├── get_awards_data.py                  # Awards data loader
-├── fetch_google_books.py               # Google Books API client
-├── fetch_openlibrary_books.py          # Open Library API client
-├── fetch_nyt_books.py                  # NYT Books API client
-├── merge_datasets.py                   # Data integration script
-├── scrapers/                           # Web scraping modules
-│   └── scraper_*.py                    # Award-specific scrapers
-├── schema/                             # JSON Schema definitions
-│   ├── dataset-metadata.jsonld         # schema.org JSON-LD metadata
-│   ├── award-entry.schema.json         # Award entry schema
-│   ├── merged-book.schema.json         # Merged dataset schema
-│   └── *.schema.json                   # API-specific schemas
-├── awards_data/                        # Pre-extracted awards (tracked in git)
-│   ├── pulitzer_prize.json             # Pulitzer Prize data (76 entries)
-│   ├── national_book_award.json        # National Book Award data (130 entries)
-│   └── booker_prize.json               # Booker Prize data (375 entries)
-├── data/                               # Runtime data (not in git)
-├── merged_data/                        # Integration outputs
-│   ├── merged_literary_books.json      # PRIMARY OUTPUT (1,538 books)
-│   ├── merge_report.json               # Merge statistics report
-│   ├── unmatched_google_books.json     # Unmatched Google Books entries
-│   ├── unmatched_openlibrary.json      # Unmatched Open Library entries
-│   └── unmatched_nyt_bestsellers.json  # Unmatched NYT entries
-├── DATA_DICTIONARY.md                  # Field specifications + schema.org
-└── CS598_FDC_Final_Report_Somnath_Saha.md    # Project report
+    README.md                           # Project overview and setup
+    LICENSE                             # MIT + CC-BY-4.0 dual license
+    requirements.txt                    # Python dependencies (pinned versions)
+    Dockerfile                          # Container specification
+    API_KEYS_REFERENCE.md               # API keys reference
+    run_pipeline.sh                     # Master orchestration script
+    run_scrapers.py                     # Scraper orchestration script
+    get_awards_data.py                  # Awards data loader
+    fetch_google_books.py               # Google Books API client
+    fetch_openlibrary_books.py          # Open Library API client
+    fetch_nyt_books.py                  # NYT Books API client
+    merge_datasets.py                   # Data integration script
+    scrapers/                           # Web scraping modules
+        scraper_*.py                    # Award-specific scrapers
+    schema/                             # JSON Schema definitions
+        dataset-metadata.jsonld         # schema.org JSON-LD metadata
+        award-entry.schema.json         # Award entry schema
+        merged-book.schema.json         # Merged dataset schema
+        *.schema.json                   # API-specific schemas
+    awards_data/                        # Pre-extracted awards (tracked in git)
+        pulitzer_prize.json             # 76 entries
+        national_book_award.json        # 130 entries
+        booker_prize.json               # 375 entries
+    data/                               # Runtime data (not in git)
+    merged_data/                        # Integration outputs
+        merged_literary_books.json      # PRIMARY OUTPUT (1,538 books)
+        merge_report.json               # Merge statistics report
+        unmatched_google_books.json     # Unmatched Google Books entries
+        unmatched_openlibrary.json      # Unmatched Open Library entries
+        unmatched_nyt_bestsellers.json  # Unmatched NYT entries
+    DATA_DICTIONARY.md                  # Field specifications + schema.org
+    CS598_FDC_Final_Report_Somnath_Saha.md   # Project report
 ```

@@ -1,0 +1,119 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dct": "http://purl.org/dc/terms/",
+    "dcat": "http://www.w3.org/ns/dcat#"
+  },
+  "@type": "Dataset",
+  "@id": "https://github.com/somnath4/cs598-fdc-literary-awards",
+  "name": "Literary Awards and Book Reception Dataset (2000-2025)",
+  "description": "An integrated dataset combining literary award data (Pulitzer Prize, National Book Award, Booker Prize) with book reception metrics (ratings, bestseller rankings) from multiple sources. Created for CS598 Foundations of Data Curation at UIUC.",
+  "keywords": [
+    "literary awards",
+    "book ratings",
+    "bestsellers",
+    "Pulitzer Prize",
+    "National Book Award",
+    "Booker Prize",
+    "data curation",
+    "entity resolution"
+  ],
+  "url": "https://github.com/somnath4/cs598-fdc-literary-awards",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "GitHub Repository",
+    "value": "cs598-fdc-literary-awards"
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "Somnath Saha",
+    "email": "somnath4@illinois.edu",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "University of Illinois Urbana-Champaign",
+      "department": "School of Information Sciences"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "University of Illinois Urbana-Champaign"
+  },
+  "dateCreated": "2025-10-01",
+  "dateModified": "2025-12-08",
+  "version": "1.0.0",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "temporalCoverage": "2000/2025",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "United States, United Kingdom",
+    "description": "English-language literary fiction from US and UK awards"
+  },
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "award_status",
+      "description": "Whether a book won or was shortlisted for a major literary award"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ratings_average",
+      "description": "Average reader rating from Open Library (scale 1-5)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "bestseller_rank",
+      "description": "New York Times bestseller list ranking"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Merged Dataset (JSON)",
+      "contentUrl": "merged_data/merged_literary_books.json",
+      "encodingFormat": "application/json",
+      "description": "Primary integrated dataset with 1,538 unique books"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Awards Summary (CSV)",
+      "contentUrl": "literary_awards_2000_2025.csv",
+      "encodingFormat": "text/csv",
+      "description": "Flat CSV export of award entries"
+    }
+  ],
+  "isBasedOn": [
+    {
+      "@type": "Dataset",
+      "name": "Wikipedia Literary Award Pages",
+      "url": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "@type": "WebAPI",
+      "name": "Google Books API",
+      "url": "https://developers.google.com/books/"
+    },
+    {
+      "@type": "WebAPI",
+      "name": "Open Library API",
+      "url": "https://openlibrary.org/developers/api"
+    },
+    {
+      "@type": "WebAPI",
+      "name": "New York Times Books API",
+      "url": "https://developer.nytimes.com/docs/books-product/1/overview"
+    }
+  ],
+  "measurementTechnique": "Web scraping (BeautifulSoup) and REST API calls with two-tier entity resolution (ISBN matching + fuzzy title-author matching)",
+  "dct:conformsTo": {
+    "@type": "CreativeWork",
+    "name": "Science Data Lifecycle Model (SDLM)",
+    "url": "https://www.usgs.gov/data-management/science-data-lifecycle-model"
+  },
+  "dcat:contactPoint": {
+    "@type": "ContactPoint",
+    "email": "somnath4@illinois.edu",
+    "contactType": "creator"
+  }
+}
+

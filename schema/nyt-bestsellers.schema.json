@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/somnath4/cs598-fdc-literary-awards/schema/nyt-bestsellers.schema.json",
+  "title": "NYT Bestsellers Dataset",
+  "description": "Schema for New York Times Books API bestseller data",
+  "type": "object",
+  "required": ["metadata", "books"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "description": "Collection-level metadata",
+      "properties": {
+        "source": {
+          "type": "string",
+          "const": "New York Times Books API"
+        },
+        "fetch_date": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp of data collection"
+        },
+        "year_range": {
+          "type": "string",
+          "description": "Bestseller list date range queried"
+        },
+        "total_books": {
+          "type": "integer",
+          "description": "Number of unique books in collection"
+        }
+      }
+    },
+    "books": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/NYTBook"
+      }
+    }
+  },
+  "$defs": {
+    "NYTBook": {
+      "type": "object",
+      "required": ["title", "author"],
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "Book title"
+        },
+        "author": {
+          "type": "string",
+          "description": "Author name"
+        },
+        "publisher": {
+          "type": ["string", "null"],
+          "description": "Publisher name"
+        },
+        "description": {
+          "type": ["string", "null"],
+          "description": "Book description from NYT"
+        },
+        "primary_isbn13": {
+          "type": ["string", "null"],
+          "pattern": "^[0-9]{13}$",
+          "description": "Primary ISBN-13 identifier"
+        },
+        "primary_isbn10": {
+          "type": ["string", "null"],
+          "pattern": "^[0-9X]{10}$",
+          "description": "Primary ISBN-10 identifier"
+        },
+        "rank": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Position on bestseller list"
+        },
+        "rank_last_week": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Position on list previous week (0 if new)"
+        },
+        "weeks_on_list": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Number of weeks on bestseller list"
+        },
+        "bestseller_date": {
+          "type": "string",
+          "format": "date",
+          "description": "Date of bestseller list (YYYY-MM-DD)"
+        },
+        "list_name": {
+          "type": "string",
+          "description": "Name of the bestseller list (e.g., 'Hardcover Fiction')"
+        },
+        "asterisk": {
+          "type": "integer",
+          "enum": [0, 1],
+          "description": "Indicates bulk sales (1) or not (0)"
+        },
+        "dagger": {
+          "type": "integer",
+          "enum": [0, 1],
+          "description": "Indicates institutional sales (1) or not (0)"
+        },
+        "book_image": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "URL to book cover image"
+        },
+        "amazon_product_url": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "Amazon product page URL"
+        }
+      }
+    }
+  }
+}
+

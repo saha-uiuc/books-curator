@@ -1,0 +1,3002 @@
+[
+  {
+    "Year": 2000,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Blind Assassin",
+    "Author": "Margaret Atwood",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2000,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Hiding Place",
+    "Author": "Trezza Azzopardi",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2000,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Keepers of Truth",
+    "Author": "Michael Collins",
+    "Publisher": "Phoenix House"
+  },
+  {
+    "Year": 2000,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "When We Were Orphans",
+    "Author": "Kazuo Ishiguro",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2000,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "English Passengers",
+    "Author": "Matthew Kneale",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2000,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Deposition of Father McGreevy",
+    "Author": "Brian O'Doherty",
+    "Publisher": "Arcadia"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "True History of the Kelly Gang",
+    "Author": "Peter Carey",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Atonement",
+    "Author": "Ian McEwan",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Oxygen",
+    "Author": "Andrew Miller",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "number9dream",
+    "Author": "David Mitchell",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Dark Room",
+    "Author": "Rachel Seiffert",
+    "Publisher": "William Heinemann"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Hotel World",
+    "Author": "Ali Smith",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "According to Queeney",
+    "Author": "Beryl Bainbridge",
+    "Publisher": "Duckworth"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "If The Invader Comes",
+    "Author": "Derek Beaven",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "A Son of War",
+    "Author": "Melvyn Bragg",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Shamrock Tea",
+    "Author": "Ciaran Carson",
+    "Publisher": "Granta Books"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Element of Water",
+    "Author": "Stevie Davies",
+    "Publisher": "The Women's Press"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Pickup",
+    "Author": "Nadine Gordimer",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Dogside Story",
+    "Author": "Patricia Grace",
+    "Publisher": "The Women's Press"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "By The Sea",
+    "Author": "Abdulrazak Gurnah",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "How to Be Good",
+    "Author": "Nick Hornby",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Wolfy and the Strudelbakers",
+    "Author": "Zvi Jagendorf",
+    "Publisher": "Dewi Lewis"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Translated Accounts",
+    "Author": "James Kelman",
+    "Publisher": "Secker & Warburg"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Blue Tango",
+    "Author": "Eoin McNamee",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Fairness",
+    "Author": "Ferdinand Mount",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Half a Life",
+    "Author": "VS Naipaul",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Amber Spyglass",
+    "Author": "Philip Pullman",
+    "Publisher": "Scholastic"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Death of Vishnu",
+    "Author": "Manil Suri",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Stone Carvers",
+    "Author": "Jane Urquhart",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2001,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Leto Bundle",
+    "Author": "Marina Warner",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Life of Pi",
+    "Author": "Yann Martel",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Family Matters",
+    "Author": "Rohinton Mistry",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Unless",
+    "Author": "Carol Shields",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Story of Lucy Gault",
+    "Author": "William Trevor",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Fingersmith",
+    "Author": "Sarah Waters",
+    "Publisher": "Virago"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Dirt Music",
+    "Author": "Tim Winton",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Strange Case of Dr Simmonds and Dr Glass",
+    "Author": "Dannie Abse",
+    "Publisher": "Robson Books"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Shroud",
+    "Author": "John Banville",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Critical Injuries",
+    "Author": "Joan Barfoot",
+    "Publisher": "The Women's Press"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Any Human Heart",
+    "Author": "William Boyd",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Next Big Thing",
+    "Author": "Anita Brookner",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Peacetime",
+    "Author": "Robert Edric",
+    "Publisher": "Black Swan"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Spies",
+    "Author": "Michael Frayn",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Still Here",
+    "Author": "Linda Grant",
+    "Publisher": "Little Brown"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Mulberry Empire",
+    "Author": "Philip Hensher",
+    "Publisher": "Flamingo"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Who’s Sorry Now?",
+    "Author": "Howard Jacobson",
+    "Publisher": "Cape"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "If Nobody Speaks of Remarkable Things",
+    "Author": "Jon McGregor",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Dorian, an Imitation",
+    "Author": "Will Self",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Autograph Man",
+    "Author": "Zadie Smith",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2002,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "To the Last City",
+    "Author": "Colin Thubron",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Vernon God Little",
+    "Author": "DBC Pierre",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Brick Lane",
+    "Author": "Monica Ali",
+    "Publisher": "Doubleday"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Oryx and Crake",
+    "Author": "Margaret Atwood",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Good Doctor",
+    "Author": "Damon Galgut",
+    "Publisher": "Atlantic Books"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Notes on a Scandal",
+    "Author": "Zoë Heller",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Astonishing Splashes of Colour",
+    "Author": "Clare Morrall",
+    "Publisher": "Tindal Street Press"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Yellow Dog",
+    "Author": "Martin Amis",
+    "Publisher": "Cape"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Turn Again Home",
+    "Author": "Carol Birch",
+    "Publisher": "Virago"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Crossing the Lines",
+    "Author": "Melvyn Bragg",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Elizabeth Costello",
+    "Author": "J. M. Coetzee",
+    "Publisher": "Harvill Secker"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Taxi Driver’s Daughter",
+    "Author": "Julia Darling",
+    "Publisher": "Penguin"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Schopenhauer’s Telescope",
+    "Author": "Gerard Donovan",
+    "Publisher": "Scribner"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Romantic",
+    "Author": "Barbara Gowdy",
+    "Publisher": "Harper Perennial"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Curious Incident of the Dog in the Night-Time",
+    "Author": "Mark Haddon",
+    "Publisher": "Doubleday"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Nick of Time",
+    "Author": "Francis King",
+    "Publisher": "Arcadia"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Heligoland",
+    "Author": "Shena Mackay",
+    "Publisher": "Cape"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Jazz etc.",
+    "Author": "John Murray",
+    "Publisher": "Flambard Press"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Something Might Happen",
+    "Author": "Julie Myerson",
+    "Publisher": "Cape"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Judge Savage",
+    "Author": "Tim Parks",
+    "Publisher": "Secker & Warburg"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "A Distant Shore",
+    "Author": "Caryl Phillips",
+    "Publisher": "Secker & Warburg"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Waxwings",
+    "Author": "Jonathan Raban",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Light of Day",
+    "Author": "Graham Swift",
+    "Publisher": "Simon & Schuster"
+  },
+  {
+    "Year": 2003,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Frankie & Stankie",
+    "Author": "Barbara Trapido",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Line of Beauty",
+    "Author": "Alan Hollinghurst",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Bitter Fruit",
+    "Author": "Achmat Dangor",
+    "Publisher": "Atlantic"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Electric Michelangelo",
+    "Author": "Sarah Hall",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Cloud Atlas",
+    "Author": "David Mitchell",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Master",
+    "Author": "Colm Tóibín",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "I'll Go to Bed at Noon",
+    "Author": "Gerard Woodward",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Purple Hibiscus",
+    "Author": "Chimamanda Ngozi Adichie",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Maps for Lost Lovers",
+    "Author": "Nadeem Aslam",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Clear: A Transparent Novel",
+    "Author": "Nicola Barker",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Island Walkers",
+    "Author": "John Bemrose",
+    "Publisher": "John Murray"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Havoc, in Its Third Year",
+    "Author": "Ronan Bennett",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Jonathan Strange & Mr Norrell",
+    "Author": "Susanna Clarke",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Always the Sun",
+    "Author": "Neil Cross",
+    "Publisher": "Scribner"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Becoming Strangers",
+    "Author": "Louise Dean",
+    "Publisher": "Scribner"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "A Blade of Grass",
+    "Author": "Lewis Desoto",
+    "Publisher": "Maia"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Cooking with Fernet Branca",
+    "Author": "James Hamilton-Paterson",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Honeymoon",
+    "Author": "Justin Haythe",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Great Fire",
+    "Author": "Shirley Hazzard",
+    "Publisher": "Virago"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Sixty Lights",
+    "Author": "Gail Jones",
+    "Publisher": "Harvill"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Unnumbered",
+    "Author": "Sam North",
+    "Publisher": "Scribner"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Snowleg",
+    "Author": "Nicholas Shakespeare",
+    "Publisher": "Harvill"
+  },
+  {
+    "Year": 2004,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Cherry",
+    "Author": "Matt Thorne",
+    "Publisher": "Weidenfeld & Nicolson"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Sea",
+    "Author": "John Banville",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Arthur & George",
+    "Author": "Julian Barnes",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "A Long Long Way",
+    "Author": "Sebastian Barry",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Never Let Me Go",
+    "Author": "Kazuo Ishiguro",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Accidental",
+    "Author": "Ali Smith",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "On Beauty",
+    "Author": "Zadie Smith",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Harmony Silk Factory",
+    "Author": "Tash Aw",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Slow Man",
+    "Author": "J. M. Coetzee",
+    "Publisher": "Secker & Warburg"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "In the Fold",
+    "Author": "Rachel Cusk",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "All For Love",
+    "Author": "Dan Jacobson",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "A Short History of Tractors in Ukrainian",
+    "Author": "Marina Lewycka",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Beyond Black",
+    "Author": "Hilary Mantel",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Saturday",
+    "Author": "Ian McEwan",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The People’s Act of Love",
+    "Author": "James Meek",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Shalimar the Clown",
+    "Author": "Salman Rushdie",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "This Thing of Darkness",
+    "Author": "Harry Thompson",
+    "Publisher": "Headline Review"
+  },
+  {
+    "Year": 2005,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "This Is The Country",
+    "Author": "William Wall",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Inheritance of Loss",
+    "Author": "Kiran Desai",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Secret River",
+    "Author": "Kate Grenville",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Carry Me Down",
+    "Author": "M. J. Hyland",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "In the Country of Men",
+    "Author": "Hisham Matar",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Mother's Milk",
+    "Author": "Edward St Aubyn",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Night Watch",
+    "Author": "Sarah Waters",
+    "Publisher": "Virago"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Theft: A Love Story",
+    "Author": "Peter Carey",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Gathering the Water",
+    "Author": "Robert Edric",
+    "Publisher": "Black Swan"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Get A Life",
+    "Author": "Nadine Gordimer",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Kalooki Nights",
+    "Author": "Howard Jacobson",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Seven Lies",
+    "Author": "James Lasdun",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Other Side of the Bridge",
+    "Author": "Mary Lawson",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "So Many Ways to Begin",
+    "Author": "Jon McGregor",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Emperor’s Children",
+    "Author": "Claire Messud",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Black Swan Green",
+    "Author": "David Mitchell",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Perfect Man",
+    "Author": "Naeem Murr",
+    "Publisher": "William Heinemann"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Be Near Me",
+    "Author": "Andrew O'Hagan",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Testament of Gideon Mack",
+    "Author": "James Robertson",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2006,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Ruby in Her Navel",
+    "Author": "Barry Unsworth",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Gathering",
+    "Author": "Anne Enright",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Darkmans",
+    "Author": "Nicola Barker",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Reluctant Fundamentalist",
+    "Author": "Mohsin Hamid",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Mister Pip",
+    "Author": "Lloyd Jones",
+    "Publisher": "John Murray"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "On Chesil Beach",
+    "Author": "Ian McEwan",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Animal's People",
+    "Author": "Indra Sinha",
+    "Publisher": "Simon & Schuster"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Self Help",
+    "Author": "Edward Docx",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Welsh Girl",
+    "Author": "Peter Ho Davies",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Gifted",
+    "Author": "Nikita Lalwani",
+    "Publisher": "Penguin"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "What Was Lost",
+    "Author": "Catherine O'Flynn",
+    "Publisher": "Tindal Street Press"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Consolation",
+    "Author": "Michael Redhill",
+    "Publisher": "William Heinemann"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Gift of Rain",
+    "Author": "Tan Twan Eng",
+    "Publisher": "Myrmidon"
+  },
+  {
+    "Year": 2007,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Winnie & Wolf",
+    "Author": "A. N. Wilson",
+    "Publisher": "Hutchinson"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The White Tiger",
+    "Author": "Aravind Adiga",
+    "Publisher": "Atlantic"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Secret Scripture",
+    "Author": "Sebastian Barry",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Sea of Poppies",
+    "Author": "Amitav Ghosh",
+    "Publisher": "John Murray"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Clothes on Their Backs",
+    "Author": "Linda Grant",
+    "Publisher": "Virago"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Northern Clemency",
+    "Author": "Philip Hensher",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "A Fraction of the Whole",
+    "Author": "Steve Toltz",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Girl in a Blue Dress",
+    "Author": "Gaynor Arnold",
+    "Publisher": "Tindal Street Press"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "From A to X",
+    "Author": "John Berger",
+    "Publisher": "Verso"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Lost Dog",
+    "Author": "Michelle de Kretser",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "A Case of Exploding Mangoes",
+    "Author": "Mohammed Hanif",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Netherland",
+    "Author": "Joseph O'Neil",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Enchantress of Florence",
+    "Author": "Salman Rushdie",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2008,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Child 44",
+    "Author": "Tom Rob Smith",
+    "Publisher": "Simon & Schuster"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Wolf Hall",
+    "Author": "Hilary Mantel",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Children's Book",
+    "Author": "A. S. Byatt",
+    "Publisher": "Chatto and Windus"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Summertime",
+    "Author": "J. M. Coetzee",
+    "Publisher": "Harvill Secker"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Quickening Maze",
+    "Author": "Adam Foulds",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Glass Room",
+    "Author": "Simon Mawer",
+    "Publisher": "Little, Brown"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Little Stranger",
+    "Author": "Sarah Waters",
+    "Publisher": "Virago"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "How to Paint a Dead Man",
+    "Author": "Sarah Hall",
+    "Publisher": "Faber"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Wilderness",
+    "Author": "Samantha Harvey",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Me Cheeta",
+    "Author": "James Lever",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Not Untrue & Not Unkind",
+    "Author": "Ed O’Loughlin",
+    "Publisher": "Penguin"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Heliopolis",
+    "Author": "James Scudamore",
+    "Publisher": "Harvill Secker"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Brooklyn",
+    "Author": "Colm Tóibín",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2009,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Love and Summer",
+    "Author": "William Trevor",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Finkler Question",
+    "Author": "Howard Jacobson",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Parrot and Olivier in America",
+    "Author": "Peter Carey",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Room",
+    "Author": "Emma Donoghue",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "In a Strange Room",
+    "Author": "Damon Galgut",
+    "Publisher": "Atlantic Books"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Long Song",
+    "Author": "Andrea Levy",
+    "Publisher": "Hachette"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Betrayal",
+    "Author": "Helen Dunmore",
+    "Publisher": "Fig Tree"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Thousand Autumns of Jacob de Zoet",
+    "Author": "David Mitchell",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "February",
+    "Author": "Lisa Moore",
+    "Publisher": "Random House"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Skippy Dies",
+    "Author": "Paul Murray",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Trespass",
+    "Author": "Rose Tremain",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Slap",
+    "Author": "Christos Tsiolkas",
+    "Publisher": "Allen & Unwin"
+  },
+  {
+    "Year": 2010,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Stars in the Bright Sky",
+    "Author": "Alan Warner",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Sense of an Ending",
+    "Author": "Julian Barnes",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Jamrach's Menagerie",
+    "Author": "Carol Birch",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Sisters Brothers",
+    "Author": "Patrick deWitt",
+    "Publisher": "Granta Books"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Half-Blood Blues",
+    "Author": "Esi Edugyan",
+    "Publisher": "Serpent's Tail"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Pigeon English",
+    "Author": "Stephen Kelman",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Snowdrops",
+    "Author": "A D Miller",
+    "Publisher": "Atlantic Books"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "On Canaan’s Side",
+    "Author": "Sebastian Barry",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "A Cupboard Full of Coats",
+    "Author": "Yvvette Edwards",
+    "Publisher": "Oneworld"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Stranger’s Child",
+    "Author": "Alan Hollinghurst",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Last Hundred Days",
+    "Author": "Patrick McGuinness",
+    "Publisher": "Seren"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Far to Go",
+    "Author": "Alison Pick",
+    "Publisher": "Tinder Press"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Testament of Jessie Lamb",
+    "Author": "Jane Rogers",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2011,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Derby Day",
+    "Author": "D. J. Taylor",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Bring Up the Bodies",
+    "Author": "Hilary Mantel",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Swimming Home",
+    "Author": "Deborah Levy",
+    "Publisher": "And Other Stories/Faber & Faber"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Lighthouse",
+    "Author": "Alison Moore",
+    "Publisher": "Salt Publishing"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Umbrella",
+    "Author": "Will Self",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Garden of Evening Mists",
+    "Author": "Tan Twan Eng",
+    "Publisher": "Myrmidon Books"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Narcopolis",
+    "Author": "Jeet Thayil",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Yips",
+    "Author": "Nicola Barker",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Teleportation Accident",
+    "Author": "Ned Beauman",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Philida",
+    "Author": "André Brink",
+    "Publisher": "Harvill Secker"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Skios",
+    "Author": "Michael Frayn",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Unlikely Pilgrimage of Harold Fry",
+    "Author": "Rachel Joyce",
+    "Publisher": "Doubleday"
+  },
+  {
+    "Year": 2012,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Communion Town",
+    "Author": "Sam Thompson",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Luminaries",
+    "Author": "Eleanor Catton",
+    "Publisher": "Granta"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "We Need New Names",
+    "Author": "NoViolet Bulawayo",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Harvest",
+    "Author": "Jim Crace",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Lowland",
+    "Author": "Jhumpa Lahiri",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "A Tale for the Time Being",
+    "Author": "Ruth Ozeki",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Testament of Mary",
+    "Author": "Colm Tóibín",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Five Star Billionaire",
+    "Author": "Tash Aw",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Marrying of Chani Kaufman",
+    "Author": "Eve Harris",
+    "Publisher": "Sandstone Press"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Kills",
+    "Author": "Richard House",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Unexploded",
+    "Author": "Alison MacLeod",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "TransAtlantic",
+    "Author": "Colum McCann",
+    "Publisher": "Bloomsbury Publishing"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Almost English",
+    "Author": "Charlotte Mendelson",
+    "Publisher": "Mantle"
+  },
+  {
+    "Year": 2013,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Spinning Heart",
+    "Author": "Donal Ryan",
+    "Publisher": "Doubleday"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Narrow Road to the Deep North",
+    "Author": "Richard Flanagan",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "To Rise Again at a Decent Hour",
+    "Author": "Joshua Ferris",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "We Are All Completely Beside Ourselves",
+    "Author": "Karen Joy Fowler",
+    "Publisher": "Serpent's Tail"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Lives of Others",
+    "Author": "Neel Mukherjee",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "How to Be Both",
+    "Author": "Ali Smith",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Blazing World",
+    "Author": "Siri Hustvedt",
+    "Publisher": "Sceptre Press"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Wake",
+    "Author": "Paul Kingsnorth",
+    "Publisher": "Unbound"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Bone Clocks",
+    "Author": "David Mitchell",
+    "Publisher": "Sceptre Press"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Us",
+    "Author": "David Nicholls",
+    "Publisher": "Hodder and Stoughton"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Dog",
+    "Author": "Joseph O’Neill",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Orfeo",
+    "Author": "Richard Powers",
+    "Publisher": "Atlantic Books"
+  },
+  {
+    "Year": 2014,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "History of the Rain",
+    "Author": "Niall Williams",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "A Brief History of Seven Killings",
+    "Author": "Marlon James",
+    "Publisher": "Oneworld Publications"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Satin Island",
+    "Author": "Tom McCarthy",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Fishermen",
+    "Author": "Chigozie Obioma",
+    "Publisher": "One"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Year of the Runaways",
+    "Author": "Sunjeev Sahota",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "A Spool of Blue Thread",
+    "Author": "Anne Tyler",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "A Little Life",
+    "Author": "Hanya Yanagihara",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Did You Ever Have a Family",
+    "Author": "Bill Clegg",
+    "Publisher": "Gallery/Scout"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Green Road",
+    "Author": "Anne Enright",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Moor’s Account",
+    "Author": "Laila Lalami",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Illuminations",
+    "Author": "Andrew O'Hagan",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Lila",
+    "Author": "Marilynne Robinson",
+    "Publisher": "Virago"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Sleeping on Jupiter",
+    "Author": "Anuradha Roy",
+    "Publisher": "Maclehose Press"
+  },
+  {
+    "Year": 2015,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Chimes",
+    "Author": "Anna Smaill",
+    "Publisher": "Hodder & Stoughton"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Sellout",
+    "Author": "Paul Beatty",
+    "Publisher": "Oneworld"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Hot Milk",
+    "Author": "Deborah Levy",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "His Bloody Project",
+    "Author": "Graeme Macrae Burnet",
+    "Publisher": "Contraband"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Eileen",
+    "Author": "Ottessa Moshfegh",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "All That Man Is",
+    "Author": "David Szalay",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Do Not Say We Have Nothing",
+    "Author": "Madeleine Thien",
+    "Publisher": "Granta"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Schooldays of Jesus",
+    "Author": "J. M. Coetzee",
+    "Publisher": "Harvill Secker"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Serious Sweet",
+    "Author": "A.L. Kennedy",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The North Water",
+    "Author": "Ian McGuire",
+    "Publisher": "Scribner"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Hystopia",
+    "Author": "David Means",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Many",
+    "Author": "Wyl Menmuir",
+    "Publisher": "Salt"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Work Like Any Other",
+    "Author": "Virginia Reeves",
+    "Publisher": "Fanfare"
+  },
+  {
+    "Year": 2016,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "My Name Is Lucy Barton",
+    "Author": "Elizabeth Strout",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Lincoln in the Bardo",
+    "Author": "George Saunders",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "4 3 2 1",
+    "Author": "Paul Auster",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "History of Wolves",
+    "Author": "Emily Fridlund",
+    "Publisher": "Weidenfeld & Nicolson"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Exit West",
+    "Author": "Mohsin Hamid",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Elmet",
+    "Author": "Fiona Mozley",
+    "Publisher": "John Murray"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Autumn",
+    "Author": "Ali Smith",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Days Without End",
+    "Author": "Sebastian Barry",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Solar Bones",
+    "Author": "Mike McCormack",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Reservoir 13",
+    "Author": "Jon McGregor",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Ministry of Utmost Happiness",
+    "Author": "Arundhati Roy",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Home Fire",
+    "Author": "Kamila Shamsie",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Swing Time",
+    "Author": "Zadie Smith",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2017,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Underground Railroad",
+    "Author": "Colson Whitehead",
+    "Publisher": "Fleet Publishing"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Milkman",
+    "Author": "Anna Burns",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Washington Black",
+    "Author": "Esi Edugyan",
+    "Publisher": "Serpent's Tail"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Everything Under",
+    "Author": "Daisy Johnson",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Mars Room",
+    "Author": "Rachel Kushner",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Overstory",
+    "Author": "Richard Powers",
+    "Publisher": "William Heinemann"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Long Take",
+    "Author": "Robin Robertson",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Snap",
+    "Author": "Belinda Bauer",
+    "Publisher": "Bantam Press"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Sabrina",
+    "Author": "Nick Drnaso",
+    "Publisher": "Granta"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "In Our Mad And Furious City",
+    "Author": "Guy Gunaratne",
+    "Publisher": "Tinder Press"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Water Cure",
+    "Author": "Sophie Mackintosh",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Warlight",
+    "Author": "Michael Ondaatje",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Normal People",
+    "Author": "Sally Rooney",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2018,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "From a Low and Quiet Sea",
+    "Author": "Donal Ryan",
+    "Publisher": "Doubleday"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Testaments",
+    "Author": "Margaret Atwood",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Girl, Woman, Other",
+    "Author": "Bernardine Evaristo",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Ducks, Newburyport",
+    "Author": "Lucy Ellmann",
+    "Publisher": "Galley Beggar"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "An Orchestra of Minorities",
+    "Author": "Chigozie Obioma",
+    "Publisher": "Little, Brown"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Quichotte",
+    "Author": "Salman Rushdie",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "10 Minutes 38 Seconds in This Strange World",
+    "Author": "Elif Shafak",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Night Boat to Tangier",
+    "Author": "Kevin Barry",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "My Sister, the Serial Killer",
+    "Author": "Oyinkan Braithwaite",
+    "Publisher": "Atlantic Books"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Wall",
+    "Author": "John Lanchester",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Man Who Saw Everything",
+    "Author": "Deborah Levy",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Lost Children Archive",
+    "Author": "Valeria Luiselli",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Lanny",
+    "Author": "Max Porter",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2019,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Frankissstein",
+    "Author": "Jeanette Winterson",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Shuggie Bain",
+    "Author": "Douglas Stuart",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The New Wilderness",
+    "Author": "Diane Cook",
+    "Publisher": "Oneworld Publications"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "This Mournable Body",
+    "Author": "Tsitsi Dangarembga",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Burnt Sugar",
+    "Author": "Avni Doshi",
+    "Publisher": "Hamish Hamilton, Penguin Random House"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Shadow King",
+    "Author": "Maaza Mengiste",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Real Life",
+    "Author": "Brandon Taylor",
+    "Publisher": "Daunt Books"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Who They Was",
+    "Author": "Gabriel Krauze",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Mirror & the Light",
+    "Author": "Hilary Mantel",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Apeirogon",
+    "Author": "Colum McCann",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Such a Fun Age",
+    "Author": "Kiley Reid",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Redhead by the Side of the Road",
+    "Author": "Anne Tyler",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Love and Other Thought Experiments",
+    "Author": "Sophie Ward",
+    "Publisher": "Corsair"
+  },
+  {
+    "Year": 2020,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "How Much of These Hills Is Gold",
+    "Author": "C Pam Zhang",
+    "Publisher": "Virago"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Promise",
+    "Author": "Damon Galgut",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "A Passage North",
+    "Author": "Anuk Arudpragasam",
+    "Publisher": "Granta"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "No One Is Talking About This",
+    "Author": "Patricia Lockwood",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Fortune Men",
+    "Author": "Nadifa Mohamed",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Bewilderment",
+    "Author": "Richard Powers",
+    "Publisher": "Hutchinson Heinemann"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Great Circle",
+    "Author": "Maggie Shipstead",
+    "Publisher": "Doubleday"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Second Place",
+    "Author": "Rachel Cusk",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Sweetness of Water",
+    "Author": "Nathan Harris",
+    "Publisher": "Tinder Press"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Klara and the Sun",
+    "Author": "Kazuo Ishiguro",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "An Island",
+    "Author": "Karen Jennings",
+    "Publisher": "Holland House Books"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "A Town Called Solace",
+    "Author": "Mary Lawson",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "China Room",
+    "Author": "Sunjeev Sahota",
+    "Publisher": "Harvill Secker"
+  },
+  {
+    "Year": 2021,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Light Perpetual",
+    "Author": "Francis Spufford",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Seven Moons of Maali Almeida",
+    "Author": "Shehan Karunatilaka",
+    "Publisher": "Sort of Books"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Glory",
+    "Author": "NoViolet Bulawayo",
+    "Publisher": "Chatto & Windus"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Trees",
+    "Author": "Percival Everett",
+    "Publisher": "Influx Press"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Treacle Walker",
+    "Author": "Alan Garner",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Small Things Like These",
+    "Author": "Claire Keegan",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Oh William!",
+    "Author": "Elizabeth Strout",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Case Study",
+    "Author": "Graeme Macrae Burnet",
+    "Publisher": "Saraband"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Trust",
+    "Author": "Hernán Díaz",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Booth",
+    "Author": "Karen Joy Fowler",
+    "Publisher": "Serpent's Tail"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The Colony",
+    "Author": "Audrey Magee",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Maps of Our Spectacular Bodies",
+    "Author": "Maddie Mortimer",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Nightcrawling",
+    "Author": "Leila Mottley",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2022,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "After Sappho",
+    "Author": "Selby Wynn Schwartz",
+    "Publisher": "Galley Beggar"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Prophet Song",
+    "Author": "Paul Lynch",
+    "Publisher": "Oneworld Publications"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Study for Obedience",
+    "Author": "Sarah Bernstein",
+    "Publisher": "Granta"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "If I Survive You",
+    "Author": "Jonathan Escoffery",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "This Other Eden",
+    "Author": "Paul Harding",
+    "Publisher": "Hutchinson Heinemann"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Bee Sting",
+    "Author": "Paul Murray",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Western Lane",
+    "Author": "Chetna Maroo",
+    "Publisher": "Picador"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "A Spell of Good Things",
+    "Author": "Ayobami Adebayo",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Old God's Time",
+    "Author": "Sebastian Barry",
+    "Publisher": "Faber & Faber"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "How to Build a Boat",
+    "Author": "Elaine Feeney",
+    "Publisher": "Harvill Secker"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Pearl",
+    "Author": "Siân Hughes",
+    "Publisher": "Indigo Press"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "All the Little Bird-Hearts",
+    "Author": "Viktoria Lloyd-Barlow",
+    "Publisher": "Tinder Press"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "In Ascension",
+    "Author": "Martin MacInnes",
+    "Publisher": "Atlantic Books"
+  },
+  {
+    "Year": 2023,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The House of Doors",
+    "Author": "Tan Twan Eng",
+    "Publisher": "Canongate"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Orbital",
+    "Author": "Samantha Harvey",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "James",
+    "Author": "Percival Everett",
+    "Publisher": "Mantle"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Creation Lake",
+    "Author": "Rachel Kushner",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Held",
+    "Author": "Anne Michaels",
+    "Publisher": "Bloomsbury"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "The Safekeep",
+    "Author": "Yael van der Wouden",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Shortlist",
+    "Title": "Stone Yard Devotional",
+    "Author": "Charlotte Wood",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Wild Houses",
+    "Author": "Colin Barrett",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Headshot",
+    "Author": "Rita Bullwinkel",
+    "Publisher": "Daunt Books Originals"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "My Friends",
+    "Author": "Hisham Matar",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "This Strange Eventful History",
+    "Author": "Claire Messud",
+    "Publisher": "Fleet"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Wandering Stars",
+    "Author": "Tommy Orange",
+    "Publisher": "Harvill Secker"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Enlightenment",
+    "Author": "Sarah Perry",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2024,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Playground",
+    "Author": "Richard Powers",
+    "Publisher": "Hutchinson Heinemann"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Flashlight",
+    "Author": "Susan Choi",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Loneliness of Sonia and Sunny",
+    "Author": "Kiran Desai",
+    "Publisher": "Hamish Hamilton"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Audition",
+    "Author": "Katie Kitamura",
+    "Publisher": "Fern Press"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Rest of Our Lives",
+    "Author": "Ben Markovits",
+    "Publisher": "Faber"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "The Land in Winter",
+    "Author": "Andrew Miller",
+    "Publisher": "Sceptre"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Winner",
+    "Title": "Flesh",
+    "Author": "David Szalay",
+    "Publisher": "Jonathan Cape"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Love Forms",
+    "Author": "Claire Adam",
+    "Publisher": "Faber"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "The South",
+    "Author": "Tash Aw",
+    "Publisher": "4th Estate"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Universality",
+    "Author": "Natasha Brown",
+    "Publisher": "Faber"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "One Boat",
+    "Author": "Jonathan Buckley",
+    "Publisher": "Fitzcarraldo Editions"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Endling",
+    "Author": "Maria Reva",
+    "Publisher": "Virago/Little, Brown"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Seascraper",
+    "Author": "Benjamin Wood",
+    "Publisher": "Viking"
+  },
+  {
+    "Year": 2025,
+    "Award": "Booker Prize",
+    "Status": "Longlist",
+    "Title": "Misinterpretation",
+    "Author": "Ledia Xhoga",
+    "Publisher": "Daunt Books Originals"
+  }
+]

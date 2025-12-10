@@ -1,0 +1,912 @@
+[
+  {
+    "Year": 2000,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "In America",
+    "Author": "Susan Sontag"
+  },
+  {
+    "Year": 2000,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Feast of Love",
+    "Author": "Charles Baxter"
+  },
+  {
+    "Year": 2000,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Diagnosis",
+    "Author": "Alan Lightman"
+  },
+  {
+    "Year": 2000,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Blonde",
+    "Author": "Joyce Carol Oates"
+  },
+  {
+    "Year": 2000,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Blue Angel",
+    "Author": "Francine Prose"
+  },
+  {
+    "Year": 2001,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "The Corrections",
+    "Author": "Jonathan Franzen"
+  },
+  {
+    "Year": 2001,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Among the Missing",
+    "Author": "Dan Chaon"
+  },
+  {
+    "Year": 2001,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Look at Me",
+    "Author": "Jennifer Egan"
+  },
+  {
+    "Year": 2001,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Last Report on the Miracles at Little No Horse",
+    "Author": "Louise Erdrich"
+  },
+  {
+    "Year": 2001,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Highwire Moon",
+    "Author": "Susan Straight"
+  },
+  {
+    "Year": 2002,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Three Junes",
+    "Author": "Julia Glass"
+  },
+  {
+    "Year": 2002,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Big If",
+    "Author": "Mark Costello"
+  },
+  {
+    "Year": 2002,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "You Are Not a Stranger Here",
+    "Author": "Adam Haslett"
+  },
+  {
+    "Year": 2002,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Gorgeous Lies",
+    "Author": "Martha McPhee"
+  },
+  {
+    "Year": 2002,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Heaven of Mercury",
+    "Author": "Brad Watson"
+  },
+  {
+    "Year": 2003,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "The Great Fire",
+    "Author": "Shirley Hazzard"
+  },
+  {
+    "Year": 2003,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Drop City",
+    "Author": "T. C. Boyle"
+  },
+  {
+    "Year": 2003,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Known World",
+    "Author": "Edward P. Jones"
+  },
+  {
+    "Year": 2003,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "A Ship Made of Paper",
+    "Author": "Scott Spencer"
+  },
+  {
+    "Year": 2003,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Evidence of Things Unseen",
+    "Author": "Marianne Wiggins"
+  },
+  {
+    "Year": 2004,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "The News from Paraguay",
+    "Author": "Lily Tuck"
+  },
+  {
+    "Year": 2004,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Madeleine is Sleeping",
+    "Author": "Sarah Shun-lien Bynum"
+  },
+  {
+    "Year": 2004,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Florida",
+    "Author": "Christine Schutt"
+  },
+  {
+    "Year": 2004,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Ideas of Heaven: A Ring of Stories",
+    "Author": "Joan Silber"
+  },
+  {
+    "Year": 2004,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Our Kind",
+    "Author": "Kate Walbert"
+  },
+  {
+    "Year": 2005,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Europe Central",
+    "Author": "William T. Vollmann"
+  },
+  {
+    "Year": 2005,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The March",
+    "Author": "E. L. Doctorow"
+  },
+  {
+    "Year": 2005,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Veronica",
+    "Author": "Mary Gaitskill"
+  },
+  {
+    "Year": 2005,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Trance",
+    "Author": "Christopher Sorrentino"
+  },
+  {
+    "Year": 2005,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Holy Skirts",
+    "Author": "Rene Steinke"
+  },
+  {
+    "Year": 2006,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "The Echo Maker",
+    "Author": "Richard Powers"
+  },
+  {
+    "Year": 2006,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Only Revolutions",
+    "Author": "Mark Z. Danielewski"
+  },
+  {
+    "Year": 2006,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "A Disorder Peculiar to the Country",
+    "Author": "Ken Kalfus"
+  },
+  {
+    "Year": 2006,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Eat the Document",
+    "Author": "Dana Spiotta"
+  },
+  {
+    "Year": 2006,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Zero",
+    "Author": "Jess Walter"
+  },
+  {
+    "Year": 2007,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Tree of Smoke",
+    "Author": "Denis Johnson"
+  },
+  {
+    "Year": 2007,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Fieldwork",
+    "Author": "Mischa Berlinski"
+  },
+  {
+    "Year": 2007,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Varieties of Disturbance",
+    "Author": "Lydia Davis"
+  },
+  {
+    "Year": 2007,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Then We Came to the End",
+    "Author": "Joshua Ferris"
+  },
+  {
+    "Year": 2007,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Like You'd Understand, Anyway",
+    "Author": "Jim Shepard"
+  },
+  {
+    "Year": 2008,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Shadow Country",
+    "Author": "Peter Matthiessen"
+  },
+  {
+    "Year": 2008,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Lazarus Project",
+    "Author": "Aleksandar Hemon"
+  },
+  {
+    "Year": 2008,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Telex from Cuba",
+    "Author": "Rachel Kushner"
+  },
+  {
+    "Year": 2008,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Home",
+    "Author": "Marilynne Robinson"
+  },
+  {
+    "Year": 2008,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The End",
+    "Author": "Salvatore Scibona"
+  },
+  {
+    "Year": 2009,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Let the Great World Spin",
+    "Author": "Colum McCann"
+  },
+  {
+    "Year": 2009,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "American Salvage",
+    "Author": "Bonnie Jo Campbell"
+  },
+  {
+    "Year": 2009,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "In Other Rooms, Other Wonders",
+    "Author": "Daniyal Mueenuddin"
+  },
+  {
+    "Year": 2009,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Lark and Termite",
+    "Author": "Jayne Anne Phillips"
+  },
+  {
+    "Year": 2009,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Far North",
+    "Author": "Marcel Theroux"
+  },
+  {
+    "Year": 2010,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Lord of Misrule",
+    "Author": "Jaimy Gordon"
+  },
+  {
+    "Year": 2010,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Parrot and Olivier in America",
+    "Author": "Peter Carey"
+  },
+  {
+    "Year": 2010,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Great House",
+    "Author": "Nicole Krauss"
+  },
+  {
+    "Year": 2010,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "So Much for That",
+    "Author": "Lionel Shriver"
+  },
+  {
+    "Year": 2010,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "I Hotel",
+    "Author": "Karen Tei Yamashita"
+  },
+  {
+    "Year": 2011,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Salvage the Bones",
+    "Author": "Jesmyn Ward"
+  },
+  {
+    "Year": 2011,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Sojourn",
+    "Author": "Andrew Krivak"
+  },
+  {
+    "Year": 2011,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Tiger's Wife",
+    "Author": "Téa Obreht"
+  },
+  {
+    "Year": 2011,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Buddha in the Attic",
+    "Author": "Julie Otsuka"
+  },
+  {
+    "Year": 2011,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Binocular Vision",
+    "Author": "Edith Pearlman"
+  },
+  {
+    "Year": 2012,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "The Round House",
+    "Author": "Louise Erdrich"
+  },
+  {
+    "Year": 2012,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "This Is How You Lose Her",
+    "Author": "Junot Díaz"
+  },
+  {
+    "Year": 2012,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "A Hologram for the King",
+    "Author": "Dave Eggers"
+  },
+  {
+    "Year": 2012,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Billy Lynn's Long Halftime Walk",
+    "Author": "Ben Fountain"
+  },
+  {
+    "Year": 2012,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Yellow Birds",
+    "Author": "Kevin Powers"
+  },
+  {
+    "Year": 2013,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "The Good Lord Bird",
+    "Author": "James McBride"
+  },
+  {
+    "Year": 2013,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Flamethrowers",
+    "Author": "Rachel Kushner"
+  },
+  {
+    "Year": 2013,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Lowland",
+    "Author": "Jhumpa Lahiri"
+  },
+  {
+    "Year": 2013,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Bleeding Edge",
+    "Author": "Thomas Pynchon"
+  },
+  {
+    "Year": 2013,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Tenth of December: Stories",
+    "Author": "George Saunders"
+  },
+  {
+    "Year": 2014,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Redeployment",
+    "Author": "Phil Klay"
+  },
+  {
+    "Year": 2014,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "An Unnecessary Woman",
+    "Author": "Rabih Alameddine"
+  },
+  {
+    "Year": 2014,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "All the Light We Cannot See",
+    "Author": "Anthony Doerr"
+  },
+  {
+    "Year": 2014,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Station Eleven",
+    "Author": "Emily St. John Mandel"
+  },
+  {
+    "Year": 2014,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Lila",
+    "Author": "Marilynne Robinson"
+  },
+  {
+    "Year": 2015,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Fortune Smiles",
+    "Author": "Adam Johnson"
+  },
+  {
+    "Year": 2015,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Refund",
+    "Author": "Karen Bender"
+  },
+  {
+    "Year": 2015,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Turner House",
+    "Author": "Angela Flournoy"
+  },
+  {
+    "Year": 2015,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Fates and Furies",
+    "Author": "Lauren Groff"
+  },
+  {
+    "Year": 2015,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "A Little Life",
+    "Author": "Hanya Yanagihara"
+  },
+  {
+    "Year": 2016,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "The Underground Railroad",
+    "Author": "Colson Whitehead"
+  },
+  {
+    "Year": 2016,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Throwback Special",
+    "Author": "Chris Bachelder"
+  },
+  {
+    "Year": 2016,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "News of the World",
+    "Author": "Paulette Jiles"
+  },
+  {
+    "Year": 2016,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Association of Small Bombs",
+    "Author": "Karan Mahajan"
+  },
+  {
+    "Year": 2016,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Another Brooklyn",
+    "Author": "Jacqueline Woodson"
+  },
+  {
+    "Year": 2017,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Sing, Unburied, Sing",
+    "Author": "Jesmyn Ward"
+  },
+  {
+    "Year": 2017,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Dark at the Crossing",
+    "Author": "Elliot Ackerman"
+  },
+  {
+    "Year": 2017,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Leavers",
+    "Author": "Lisa Ko"
+  },
+  {
+    "Year": 2017,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Pachinko",
+    "Author": "Min Jin Lee"
+  },
+  {
+    "Year": 2017,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Her Body and Other Parties",
+    "Author": "Carmen Maria Machado"
+  },
+  {
+    "Year": 2018,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "The Friend",
+    "Author": "Sigrid Nunez"
+  },
+  {
+    "Year": 2018,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "A Lucky Man",
+    "Author": "Jamel Brinkley"
+  },
+  {
+    "Year": 2018,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Florida",
+    "Author": "Lauren Groff"
+  },
+  {
+    "Year": 2018,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Where the Dead Sit Talking",
+    "Author": "Brandon Hobson"
+  },
+  {
+    "Year": 2018,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Great Believers",
+    "Author": "Rebecca Makkai"
+  },
+  {
+    "Year": 2019,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Trust Exercise",
+    "Author": "Susan Choi"
+  },
+  {
+    "Year": 2019,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Sabrina & Corina",
+    "Author": "Kali Fajardo-Anstine"
+  },
+  {
+    "Year": 2019,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Black Leopard, Red Wolf",
+    "Author": "Marlon James"
+  },
+  {
+    "Year": 2019,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Other Americans",
+    "Author": "Laila Lalami"
+  },
+  {
+    "Year": 2019,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Disappearing Earth",
+    "Author": "Julia Phillips"
+  },
+  {
+    "Year": 2020,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Interior Chinatown",
+    "Author": "Charles Yu"
+  },
+  {
+    "Year": 2020,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Leave the World Behind",
+    "Author": "Rumaan Alam"
+  },
+  {
+    "Year": 2020,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "A Children's Bible",
+    "Author": "Lydia Millet"
+  },
+  {
+    "Year": 2020,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Secret Lives of Church Ladies",
+    "Author": "Deesha Philyaw"
+  },
+  {
+    "Year": 2020,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Shuggie Bain",
+    "Author": "Douglas Stuart"
+  },
+  {
+    "Year": 2021,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Hell of a Book",
+    "Author": "Jason Mott"
+  },
+  {
+    "Year": 2021,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Cloud Cuckoo Land",
+    "Author": "Anthony Doerr"
+  },
+  {
+    "Year": 2021,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Matrix",
+    "Author": "Lauren Groff"
+  },
+  {
+    "Year": 2021,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Zorrie",
+    "Author": "Laird Hunt"
+  },
+  {
+    "Year": 2021,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Prophets",
+    "Author": "Robert Jones Jr."
+  },
+  {
+    "Year": 2022,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "The Rabbit Hutch",
+    "Author": "Tess Gunty"
+  },
+  {
+    "Year": 2022,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Birdcatcher",
+    "Author": "Gayl Jones"
+  },
+  {
+    "Year": 2022,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Haunting of Hajji Hotak and Other Stories",
+    "Author": "Jamil Jan Kochai"
+  },
+  {
+    "Year": 2022,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "All This Could Be Different",
+    "Author": "Sarah Thankam Mathews"
+  },
+  {
+    "Year": 2022,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Town of Babylon",
+    "Author": "Alejandro Varela"
+  },
+  {
+    "Year": 2023,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "Blackouts",
+    "Author": "Justin Torres"
+  },
+  {
+    "Year": 2023,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Chain-Gang All-Stars",
+    "Author": "Nana Kwame Adjei-Brenyah"
+  },
+  {
+    "Year": 2023,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Temple Folk",
+    "Author": "Aaliyah Bilal"
+  },
+  {
+    "Year": 2023,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "This Other Eden",
+    "Author": "Paul Harding"
+  },
+  {
+    "Year": 2023,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The End of Drum-Time",
+    "Author": "Hanna Pylväinen"
+  },
+  {
+    "Year": 2024,
+    "Award": "National Book Award for Fiction",
+    "Status": "Winner",
+    "Title": "James",
+    "Author": "Percival Everett"
+  },
+  {
+    "Year": 2024,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Ghostroots",
+    "Author": "Pemi Aguda"
+  },
+  {
+    "Year": 2024,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Martyr!",
+    "Author": "Kaveh Akbar"
+  },
+  {
+    "Year": 2024,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "All Fours",
+    "Author": "Miranda July"
+  },
+  {
+    "Year": 2024,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "My Friends",
+    "Author": "Hisham Matar"
+  },
+  {
+    "Year": 2025,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The True True Story of Raja the Gullible (and His Mother)",
+    "Author": "Rabih Alameddine"
+  },
+  {
+    "Year": 2025,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "A Guardian and a Thief",
+    "Author": "Megha Majumdar"
+  },
+  {
+    "Year": 2025,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "The Antidote",
+    "Author": "Karen Russell"
+  },
+  {
+    "Year": 2025,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "North Sun, or, the Voyage of the Whaleship Esther",
+    "Author": "Ethan Rutherford"
+  },
+  {
+    "Year": 2025,
+    "Award": "National Book Award for Fiction",
+    "Status": "Finalist",
+    "Title": "Palaver",
+    "Author": "Bryan Washington"
+  }
+]

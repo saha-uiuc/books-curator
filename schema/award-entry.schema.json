@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/somnath4/cs598-fdc-literary-awards/schema/award-entry.schema.json",
+  "title": "Literary Award Entry",
+  "description": "Schema for individual literary award entries (Pulitzer Prize, National Book Award, Booker Prize)",
+  "type": "object",
+  "required": ["Year", "Award", "Status", "Title", "Author"],
+  "properties": {
+    "Year": {
+      "type": "integer",
+      "minimum": 2000,
+      "maximum": 2025,
+      "description": "Year the award was given"
+    },
+    "Award": {
+      "type": "string",
+      "enum": [
+        "Pulitzer Prize for Fiction",
+        "National Book Award for Fiction",
+        "Booker Prize"
+      ],
+      "description": "Name of the literary award"
+    },
+    "Status": {
+      "type": "string",
+      "enum": ["Winner", "Finalist", "Shortlist", "Longlist"],
+      "description": "Award status (Winner, Finalist/Shortlist, or Longlist)"
+    },
+    "Title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Title of the book"
+    },
+    "Author": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Author name"
+    },
+    "Publisher": {
+      "type": "string",
+      "description": "Publisher name (optional, may not be available for all entries)"
+    }
+  },
+  "additionalProperties": false,
+  "examples": [
+    {
+      "Year": 2023,
+      "Award": "Pulitzer Prize for Fiction",
+      "Status": "Winner",
+      "Title": "Demon Copperhead",
+      "Author": "Barbara Kingsolver",
+      "Publisher": "Harper"
+    }
+  ]
+}
+

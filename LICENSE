@@ -1,0 +1,79 @@
+MIT License
+
+Copyright (c) 2025 Somnath Saha
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Data Licensing
+
+The dataset produced by this software is sourced from:
+
+1. **Wikipedia** - All award data is scraped from Wikipedia articles
+   - License: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+   - https://en.wikipedia.org/wiki/Wikipedia:Copyrights
+
+2. **Google Books API** - Bibliographic metadata
+   - Subject to Google Books API Terms of Service
+   - https://developers.google.com/books/terms
+
+3. **Open Library API** - Public reception metrics
+   - License: Creative Commons CC0 1.0 Universal (CC0)
+   - https://openlibrary.org/developers/api
+
+4. **New York Times Books API** - Bestseller data
+   - Subject to NYT Developer API Terms of Service
+   - https://developer.nytimes.com/terms
+
+The **curated dataset** created by merging these sources is made available under:
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose
+
+Under the following terms:
+- Attribution — You must give appropriate credit to: Somnath Saha, "Literary Awards and Book Reception Dataset", CS598 Foundations of Data Curation (Fall 2025), University of Illinois.
+
+---
+
+## Citation
+
+If you use this dataset in your research, please cite:
+
+```
+Saha, S. (2025). Critical Acclaim vs. Reader Popularity: Curating an Integrated 
+Dataset of Literary Awards and Book Reception. CS598 Foundations of Data Curation 
+Final Project, University of Illinois at Urbana-Champaign.
+```
+
+BibTeX:
+```bibtex
+@misc{saha2025literary,
+  author = {Saha, Somnath},
+  title = {Critical Acclaim vs. Reader Popularity: Curating an Integrated Dataset 
+           of Literary Awards and Book Reception},
+  year = {2025},
+  howpublished = {CS598 Foundations of Data Curation Final Project, 
+                  University of Illinois at Urbana-Champaign},
+  note = {Available at: [GitHub URL to be added]}
+}
+```
+

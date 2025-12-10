@@ -1,0 +1,119 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/somnath4/cs598-fdc-literary-awards/schema/openlibrary.schema.json",
+  "title": "Open Library Dataset",
+  "description": "Schema for Open Library API data collection with reader engagement metrics",
+  "type": "object",
+  "required": ["metadata", "books"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "description": "Collection-level metadata",
+      "properties": {
+        "source": {
+          "type": "string",
+          "const": "Open Library API"
+        },
+        "fetch_date": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp of data collection"
+        },
+        "year_range": {
+          "type": "string",
+          "description": "Publication year range queried"
+        },
+        "total_books": {
+          "type": "integer",
+          "description": "Number of books in collection"
+        }
+      }
+    },
+    "books": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/OpenLibraryBook"
+      }
+    }
+  },
+  "$defs": {
+    "OpenLibraryBook": {
+      "type": "object",
+      "required": ["title", "openlibrary_key"],
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "Book title"
+        },
+        "authors": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "List of author names"
+        },
+        "year": {
+          "type": ["integer", "null"],
+          "minimum": 2020,
+          "maximum": 2025,
+          "description": "First publication year"
+        },
+        "publishers": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "List of publishers"
+        },
+        "isbn": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "All ISBN variants (ISBN-10 and ISBN-13)"
+        },
+        "subjects": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Subject classifications"
+        },
+        "language": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Language codes"
+        },
+        "number_of_pages": {
+          "type": ["integer", "null"],
+          "minimum": 1,
+          "description": "Median page count across editions"
+        },
+        "ratings_average": {
+          "type": ["number", "null"],
+          "minimum": 1,
+          "maximum": 5,
+          "description": "Average reader rating (1-5 scale)"
+        },
+        "ratings_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Number of ratings received"
+        },
+        "want_to_read_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Users who want to read this book"
+        },
+        "currently_reading_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Users currently reading this book"
+        },
+        "already_read_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Users who have read this book"
+        },
+        "openlibrary_key": {
+          "type": "string",
+          "pattern": "^/works/OL[0-9]+W$",
+          "description": "Open Library work identifier (primary key)"
+        }
+      }
+    }
+  }
+}
+

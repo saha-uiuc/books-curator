@@ -1,7 +1,7 @@
 # CS598 Foundations of Data Curation: Final Report
 ### Critical Acclaim vs. Reader Popularity
 ### Curating an Integrated Dataset of Literary Awards and Book Reception
-### Author: "Somnath Saha (somnath4@illinois.edu)"
+### Author: Somnath Saha
 
 ***
 

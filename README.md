@@ -1,13 +1,11 @@
----
-title: "CS598 Foundations of Data Curation: Final Report"
-subtitle: | 
-    | **Critical Acclaim vs. Reader Popularity** 
-    | Curating an Integrated Dataset of Literary Awards and Book Reception
-author: "Somnath Saha (somnath4@illinois.edu)"
-date: "December 9, 2025"
----
+# CS598 Foundations of Data Curation: Final Report
+## Critical Acclaim vs. Reader Popularity
+### Curating an Integrated Dataset of Literary Awards and Book Reception
 
-\newpage
+
+## author: "Somnath Saha (somnath4@illinois.edu)"
+
+***
 
 # Abstract
 
@@ -236,7 +234,6 @@ Designing unified schema to accommodate optional fields across six sources requi
 
 **Key Insight:** Most valuable learning came from unanticipated challenges. These experiences reinforced that **data curation is as much craft as science**, requiring iterative experimentation, domain knowledge, and pragmatic tradeoffs.
 
-\newpage
 # Conclusion
 
 This project successfully demonstrates end-to-end data curation for a real-world research question, integrating 1,538 unique books from six heterogeneous sources. The resulting dataset enables investigation of relationships between critical acclaim, public reception, and commercial success in contemporary literary fiction.
@@ -278,7 +275,6 @@ This project successfully demonstrates end-to-end data curation for a real-world
 - Open Library API. (2025). https://openlibrary.org/developers/api
 - The New York Times Books API. (2025). https://developer.nytimes.com/docs/books-product/1/overview
 
-\newpage
 # Appendix A: Technical Implementation Details
 
 ## Web Scraping (`scrapers/` directory)
@@ -335,7 +331,6 @@ This project successfully demonstrates end-to-end data curation for a real-world
 - **Very strict rate limits:** 12-second delay between requests
 - API key via environment variable (`NYT_BOOKS_API_KEY`)
 
-\newpage
 # Appendix B: Entity Resolution Algorithm
 
 **Script:** `merge_datasets.py`
